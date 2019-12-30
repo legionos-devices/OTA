@@ -2,12 +2,12 @@
 {
   "response": [
     {
-      "datetime": 1577293197, 
-      "filename": "LEGIONOS-v2.4-vince-OFFICIAL-20191225-1702-Q.zip", 
-      "id": "dc840a0f6bd6dfd250d8967a77ac626c367a285e958d73c773ab0d31d8d151b8", 
-      "romtype": "official", 
+      "datetime": 1577722452, 
+      "filename": "LEGIONOS-v2.4-vince-OFFICIAL-20191230-1615-Q.zip", 
+      "id": "d553c35b038f48ed4c52096defb36e5ae6ce573ee209023d200e37c0253241ee", 
+      "romtype": "OFFICIAL", 
       "size": 640679936, 
-      "url": "https://freefr.dl.sourceforge.net/project/legionos/test/LEGIONOS-v2.4-vince-OFFICIAL-20191225-1702-Q.zip", 
+      "url": "https://sourceforge.net/projects/legionos/files/test/LEGIONOS-v2.4-vince-OFFICIAL-20191230-1615-Q.zip/download", 
       "version": "v2.4"
     }
   ]
