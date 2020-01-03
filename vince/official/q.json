@@ -2,12 +2,12 @@
   "response": [
     {
       "datetime": 1577980965, 
-      "filename": "Legion-v2.4-vince-OFFICIAL-20200103-Q.zip", 
+      "filename": "Legion-v2.5-vince-OFFICIAL-20200103-Q.zip", 
       "id": "a7f248c203ef2b9bc2299a37ab282b3a413a5087afb100231cd7b6791055329f", 
       "romtype": "official", 
       "size": 639657891, 
-      "url": "https://freefr.dl.sourceforge.net/project/legionos/test/Legion-v2.4-vince-OFFICIAL-20200103-Q.zip", 
-      "version": "v10.0"
+      "url": "https://freefr.dl.sourceforge.net/project/legionos/test/Legion-v2.5-vince-OFFICIAL-20200103-Q.zip", 
+      "version": "v2.5"
     }
   ]
 }
