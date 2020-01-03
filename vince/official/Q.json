@@ -1,14 +1,7 @@
-
 {
-  "response": [
-    {
-      "datetime": 1577722452, 
-      "filename": "LEGIONOS-v2.4-vince-OFFICIAL-20191230-1615-Q.zip", 
-      "id": "d553c35b038f48ed4c52096defb36e5ae6ce573ee209023d200e37c0253241ee", 
-      "romtype": "OFFICIAL", 
-      "size": 640679936, 
-      "url": "https://sourceforge.net/projects/legionos/files/test/LEGIONOS-v2.4-vince-OFFICIAL-20191230-1615-Q.zip/download", 
-      "version": "v2.4"
-    }
-  ]
+   "filename": "Legion-v2.4-vince-OFFICIAL-20200103-Q.zip",
+   "datetime": 1577980965,
+   "size": 639657891,
+   "filehash": "9a671f1e22b600ba141e8d2d3e860e8c",
+   "id": "a7f248c203ef2b9bc2299a37ab282b3a413a5087afb100231cd7b6791055329f"
 }
