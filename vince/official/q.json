@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1580148151, 
-      "filename": "Legion-v2.5-vince-OFFICIAL-20200127-Q.zip", 
-      "id": "1ee984957436113eec7fc6742ed064588355f42ce48f3dec822ac67e61808392", 
+      "datetime": 1589111316, 
+      "filename": "Legion-v2.7-vince-OFFICIAL-20200510-Q.zip", 
+      "id": "a6fabdb9d4b687b6a376fee4a062596a1e2fe7cb3411a7d9bdaba240fb50450b", 
       "romtype": "official", 
-      "size": 672137216, 
-      "url": "https://freefr.dl.sourceforge.net/project/legionos/test/Legion-v2.5-vince-OFFICIAL-20200127-Q.zip", 
+      "size": 652401662, 
+      "url": "https://sourceforge.net/projects/legionrom/files/vince/Legion-v2.7-vince-OFFICIAL-20200510-Q.zip/download", 
       "version": "v10.0"
     }
   ]
