@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "filename": "LegionOS-v2.10-raphael-20200720-0725-OFFICIAL-Vanilla.zip",
+        "url": "https://sourceforge.net/projects/legionrom/files/raphael/LegionOS-v2.10-raphael-20200720-0725-OFFICIAL-Vanilla.zip/download",
+        "timestamp": 1595229921,
+        "md5sum": "4c4ac7798040aa18c285a889a105ca3c",
+        "size": 1059781165,
+        "version": "v2.10",
+        "romtype": "Official"
+    }
+  ]
+}
+
