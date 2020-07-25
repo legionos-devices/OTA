@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "LegionOS-v2.10-raphael-20200725-0850-OFFICIAL-Vanilla.zip",
+        "filename": "LegionOS-v2.10-raphael-20200725-0923-OFFICIAL-Gapps.zip",
         "url": "https://sourceforge.net/projects/legionrom/files/raphael/LegionOS-v2.10-raphael-20200720-0725-OFFICIAL-Vanilla.zip/download",
         "timestamp": 1595667024,
-        "md5sum": "a26bce0f7f57ad907e4f997722cf90db",
-        "size": 1059594908,
+        "md5sum": "820dd35da162ea047f380c5460254e7e",
+        "size": 1595668925,
         "version": "v2.10",
         "romtype": "Official"
     }
