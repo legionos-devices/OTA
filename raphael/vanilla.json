@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "LegionOS-v2.10-raphael-20200726-1234-OFFICIAL-Vanilla.zip",
-        "url": "https://sourceforge.net/projects/legionrom/files/raphael/LegionOS-v2.10-raphael-20200726-1234-OFFICIAL-Vanilla.zip/download",
-        "timestamp": 1595766847,
-        "md5sum": "f0c4fb7651f184d3a1a04890212526ee",
-        "size": 1059621755,
-        "version": "v2.10",
+        "filename": "LegionOS-v2.11-raphael-20200814-OFFICIAL-Vanilla.zip",
+        "url": "https://sourceforge.net/projects/legionrom/files/raphael/LegionOS-v2.11-raphael-20200814-OFFICIAL-Vanilla.zip/download",
+        "timestamp": 1595744779,
+        "md5sum": "e55f772e19fd2fc82bf59afc1bd70d4e",
+        "size": 829379830,
+        "version": "v2.11",
         "romtype": "Official"
     }
   ]
