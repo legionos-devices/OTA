@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "filename": "LegionOS-v2.11-ysl-20200813-OFFICIAL-Vanilla.zip",
-      "url": "https://sourceforge.net/projects/legionrom/files/ysl/LegionOS-v2.11-ysl-20200813-OFFICIAL-Vanilla.zip/download",
-      "timestamp": 1597351324,
-      "md5sum": "d39fbc35892b3d1920296c9ced45a110",
-      "size": 809142129,
+      "filename": "LegionOS-v2.11-ysl-20200825-OFFICIAL-Vanilla.zip",
+      "url": "https://sourceforge.net/projects/legionrom/files/ysl/LegionOS-v2.11-ysl-20200825-OFFICIAL-Vanilla.zip/download",
+      "timestamp": 1598363943,
+      "md5sum": "b5fb08e67457592366f5e633dad7ee99",
+      "size": 907102803 ,
       "version": "v2.11",
       "romtype": "Official"
     }
