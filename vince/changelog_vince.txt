@@ -1,0 +1,14 @@
+* LegionOS Updated to v2.11.5
+* Merged September Security patch 
+* Fixed Ui Radius not working with icon shape
+* Fixed Padding issue in signal and battery
+* Fixed QS Header dark issue
+* Fixed Font string messup
+* Brand new Legion Settings Ui (thanks to anonhacker)
+* Added 3 more qs style(cosmos, oxygen and divided circle)
+* Added 3 more FOD animation (neon, aurora, star)
+* Update blobs from caf and daisy
+* Dark ages kernel inbuilt
+* Fix call volume issue
+* Update thermal-engine
+* Improve performance
