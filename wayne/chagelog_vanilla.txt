@@ -1,0 +1,14 @@
+Device: Xiaomi Mi 6X (Wayne)
+Device maintainer: Roger Willams - Lokodetoddyn
+
+==== 2020-09-11 ====
+* wayne: Add Battery Health support
+* wayne: Fixed QS System Info
+* wayne: configs: audio: set default headset volume 
+* wayne: configs: audio: properly import stereomod 
+* kenrel: Upstreamed to Linux 4.4.235
+* kernel: Merge 4.4.235 into kernel.lnx.4.4.r38-rel 
+* kernel: Merge 4.4.235 from https://github.com/android-linux-stable/msm-4.4
+* kernel: wireguard: update wireguard to version v1.0.20200908
+* kernel: touchscreen: import aospa dt2w changes 
+* general: More fixes and changes
