@@ -1,9 +1,19 @@
-* LegionOS Updated to v2.11.5
-* Merged September Security patch 
-* Fixed Ui Radius not working with icon shape
-* Fixed Padding issue in signal and battery
-* Fixed QS Header dark issue
-* Fixed Font string messup
-* Brand new Legion Settings Ui (thanks to anonhacker)
-* Added 3 more qs style(cosmos, oxygen and divided circle)
-* Added 3 more FOD animation (neon, aurora, star)
+* LegionOS update to v3.1
+* Fixed gms crash
+* Fix Random reboot
+* Added RGB Accenter
+* Added RGB Gradienter
+* Added Back DarkUi themes
+* Added Few more IconShapes
+* Added Ui Radius customizations
+* Added StatusBar Height customizations
+* Added Our all fonts
+* Added Statusbar Icons
+* Added Dual Targets to QS tiles
+* Added Sync tile
+* Added AOD tile
+* Added Advance Location tile
+* Add FOD support
+* Improved Stability and Performance
+
+* Initial build for android 11

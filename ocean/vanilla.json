@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "LegionOS-v2.11.5-ocean-20200910-OFFICIAL-Vanilla.zip",
-        "url": "https://sourceforge.net/projects/legionrom/files/ocean/LegionOS-v2.11.5-ocean-20200910-OFFICIAL-Vanilla.zip",
-        "timestamp": "1599774032" ,
-        "md5sum": "3316b5d2ba06c0482bc02dc18e39cc2b",
-        "size": 708021044,
-        "version": "10.0",
+        "filename": "LegionOS-v3.1-ocean-20200930-OFFICIAL-Vanilla.zip",
+        "url": "https://sourceforge.net/projects/legionrom/files/ocean/LegionOS-v3.1-ocean-20200930-OFFICIAL-Vanilla.zip",
+        "timestamp": "1601493065" ,
+        "md5sum": "0c36a710adf55561615a267495d41948",
+        "size": 559781911,
+        "version": "11.0",
         "romtype": "OFFICIAL"
     }
   ]
