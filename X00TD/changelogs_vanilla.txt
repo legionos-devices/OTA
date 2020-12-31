@@ -1,0 +1,5 @@
+* Fix Audio Bugs.
+* Update audio,media and display hals.
+* Update blobs from stock 432 and qssi-cmi
+* CTS passing without magisk now.
+* Upstreamed kernel to 4.4.249.

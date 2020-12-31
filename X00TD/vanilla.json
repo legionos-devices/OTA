@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+        "filename": "LegionOS-v3.4-X00TD-20201231-1635-OFFICIAL-Vanilla.zip",
+        "url": "https://sourceforge.net/projects/legionrom/files/X00TD/LegionOS-v3.4-X00TD-20201231-1635-OFFICIAL-Vanilla.zip/download",
+        "timestamp": 1609432321,
+        "md5sum": "f93213544bea9cda821acff6b9dcc617",
+        "size": 784614450,
+        "version": "v3.4",
+        "romtype": "Official"
+    }
+  ]
+}
