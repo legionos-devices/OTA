@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+        "filename": "LegionOS-v3.4-wayne-20210105-1659-OFFICIAL-Gapps.zip",
+        "url": "https://sourceforge.net/projects/legionrom/files/wayne/LegionOS-v3.4-wayne-20210105-1659-OFFICIAL-Gapps.zip/download",
+        "timestamp": 1609876536,
+        "md5sum": "e6712cfef286fa8145da63d101db097f",
+        "size": 1035214157,
+        "version": "v3.4",
+        "romtype": "Official"
+    }
+  ]
+}
