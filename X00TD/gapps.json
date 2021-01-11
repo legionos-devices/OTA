@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1599982873, 
-      "filename": "LegionOS-v2.11.5-X00TD-20200913-OFFICIAL-Gapps.zip", 
-      "id": "d6f05b58d3e83861757d963689e67b8de03963a97d8d410816867d9b6c732fcb", 
-      "romtype": "official", 
-      "size": 1188718244, 
-      "url": "https://sourceforge.net/projects/legionrom/files/X00TD/LegionOS-v2.11.5-X00TD-20200913-OFFICIAL-Gapps.zip/download", 
-      "version": "v10.0"
+        "filename": "",
+        "url": "https://sourceforge.net/projects/legionrom/files/X00TD/",
+        "timestamp": 1595667024,
+        "md5sum": "",
+        "size": 1595668925,
+        "version": "v3.4",
+        "romtype": "Official"
     }
   ]
 }
