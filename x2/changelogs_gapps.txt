@@ -1,0 +1,2 @@
+LeEco Le Max2 device GAPPS build
+Including basic R-11 Gapps
