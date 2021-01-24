@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+        "filename": "LegionOS-v3.5-x2-20210124-1857-OFFICIAL-GAPPS.zip",
+        "url": "https://sourceforge.net/projects/legionrom/files/lemax2/LegionOS-v3.5-x2-20210124-1857-OFFICIAL-GAPPS.zip/download",
+        "timestamp": 1598667024,
+        "md5sum": "44681b7a71fae18d7893e68a72443944",
+        "size": 921662656,
+        "version": "v3.5",
+        "romtype": "Official"
+    }
+  ]
+}

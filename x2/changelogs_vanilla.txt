@@ -1,0 +1,3 @@
+LeEco Le Max2 device Vanilla build
+Not including Gapps
+Flash FlameGapps NikGapps or others  working gapps
