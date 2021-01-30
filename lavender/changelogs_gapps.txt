@@ -1,0 +1,9 @@
+Switched to EAS Kernel
+Fixed Telephony Log Spam
+Fixed instant freeze
+Updated gps blobs from LA.UM.9.12.r1-09500-SMxx50.0
+Updated telephony blobs from LA.QSSI.11.0.r1-09400-qssi.0
+Updated WFD and Time services blobs
+Some changes for 24bit audio
+Reverted Gboard Pixel 5 props
+Improvement Ram Management
