@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "LegionOS-v3.5-x2-20210124-1911-OFFICIAL-VANILLA.zip",
-        "url": "https://sourceforge.net/projects/legionrom/files/lemax2/LegionOS-v3.5-x2-20210124-1911-OFFICIAL-VANILLA.zip/download",
-        "timestamp": 1598667034,
-        "md5sum": "85bda55d4e7958f56110f9164ae9520f",
-        "size": 767643025,
+        "filename": "LegionOS-v3.5-x2-20210131-1644-OFFICIAL-VANILLA.zip",
+        "url": "https://sourceforge.net/projects/legionrom/files/lemax2/LegionOS-v3.5-x2-20210131-1644-OFFICIAL-VANILLA.zip/download",
+        "timestamp": 1612104228,
+        "md5sum": "0a8acb99ebd1567ce8d37c3538bf4c53",
+        "size": 763340886,
         "version": "v3.5",
         "romtype": "Official"
     }
