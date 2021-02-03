@@ -1,1 +1,43 @@
-initial testing
+Rom
+
+ -Added heads up tile
+ -Added double tap to sleep on home screen
+ -Added new icons from one plus 
+ -Added settings dashboard from one plus
+ -Added signature spoofing support
+ -Added Back arrow fron one plus(gesture)
+ -Added per app network isolation
+ -Added batter reset option
+ -Added option to show memory usage in app info
+ -Moved blur option to display section
+ -Added adaptive play back
+ -Added delete button in screenshot 
+ -Added oos style notification clear all button
+ -Added round corners for system ui
+ -Added a new default wallpaper
+ -Disable blur by default
+ -Fixed bluetooth qs
+ -Added Janaury security patch
+ -Added missing Greek translations
+ -Added Lpaper2.0
+ -Some.misc fixes
+
+Device
+
+1)  Moved to Westcoast superfast eas+ kernel
+2)  Removed Camera 2 (can install miui/gcam if needed from @yaa2g(telegram))
+3)  Added back live wallaper
+4)  Fixed lags in live wallaper
+5)  Added some ram optimization
+6)  Impoved perfomance 
+7)  Optimised swap for performance
+8)  Some optimization for 24bit audio
+9)  Improved Thermals
+10) Moved to qti thermal
+11) Fixed some camera video stuff
+12) Optimised gps
+13) Fixed network reset issues
+14) Added some z-ram improvements
+15) Disable blur by default
+
+### Thanks for suppport ....keep supporting.....have a great day....kthxbyeinitial testing
