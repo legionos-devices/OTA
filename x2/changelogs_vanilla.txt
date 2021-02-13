@@ -1,3 +1,15 @@
 LeEco Le Max2 device Vanilla build
 Not including Gapps
 Flash FlameGapps NikGapps or others  working gapps
+
+Changelog:Vanilla/Gapps
+ - February 05 2021 security patches
+ - Enforcing build
+ - Including all our latest x2 tree updates
+ - Including LeEco IR
+ - Including latest LegionOS advanced settings
+ - Latest BS 8.0-OC kernel on board
+ - Fixed more denials
+ - Fixed CPU throtling
+ - Fixed Smart Charging
+ - Fixed statusbar padding
