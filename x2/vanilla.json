@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "LegionOS-v3.5-x2-20210131-1644-OFFICIAL-VANILLA.zip",
-        "url": "https://sourceforge.net/projects/legionrom/files/lemax2/LegionOS-v3.5-x2-20210131-1644-OFFICIAL-VANILLA.zip/download",
-        "timestamp": 1612104228,
-        "md5sum": "0a8acb99ebd1567ce8d37c3538bf4c53",
-        "size": 763340886,
-        "version": "v3.5",
+        "filename": "LegionOS-v3.6-x2-20210213-0850-OFFICIAL-VANILLA.zip",
+        "url": "https://sourceforge.net/projects/legionrom/files/lemax2/LegionOS-v3.6-x2-20210213-0850-OFFICIAL-VANILLA.zip/download",
+        "timestamp": 1613198911,
+        "md5sum": "56ddb20521edfe1054ebf1c570b8f48f",
+        "size": 767752554,
+        "version": "v3.6",
         "romtype": "Official"
     }
   ]
