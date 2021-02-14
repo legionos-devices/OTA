@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+        "filename": "LegionOS-v3.6-lmi-20210214-1424-OFFICIAL-GAPPS.zip",
+        "url": "https://sourceforge.net/projects/legionrom/files/lmi/LegionOS-v3.6-lmi-20210214-1424-OFFICIAL-GAPPS.zip/download",
+        "timestamp": "1613312668" ,
+        "md5sum": "f9c7ea416aba9fabde9400873c6cf0db",
+        "size": 860862813,
+        "version": "3.6",
+        "romtype": "OFFICIAL"
+    }
+  ]
+}

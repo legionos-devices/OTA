@@ -1,0 +1,36 @@
+Device: Poco F2 Pro (lmi)
+Device maintainer: AbdullahPS
+
+==== 2021-02-14 ====
+
+Device Specific Changes
+😈 Add Support for Screen Off Fod
+😈 Add option to toggle off dt2w
+😈 Add More Carrier Overlays
+Source Changes
+😈-Added new dialer app (supports many new features with new ui )
+😈-Added new Messaging app (Supports many new features with new ui)
+😈-Added new clock app
+😈-Merged February security patch from google
+😈-Added long screenshot option aka extended screenshot
+😈-Added icon pack support in legion launcher
+😈-Many misc and animation and performance improvement for legion launcher
+😈-Added switch styles
+😈-Added tint/accent for switch styles
+😈-Added date customizations
+😈-Added clock customizations
+😈-Added some transalations
+😈-Increased qs panel height a bit
+😈-Removed qs drag header
+😈-Fixed a case when using dark mode give fc in some apps
+😈-Added option to tweak qs slider
+😈-Added qs data usage 
+😈-Fixed some anr when installing apps
+😈-Added new assistant ui from pixel5
+😈-Added pixel props(free storage in photos/new gboard/new assistant ui etc)
+😈-Invert nav bar
+😈-Added new kai and Sam icon pack
+😈-Fixed a case where system reboots while smart charging
+😈-Some minor refactoring cleanup and misc changes
+
+
