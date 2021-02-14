@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+        "filename": "LegionOS-v3.6-lmi-20210214-1543-OFFICIAL-VANILLA.zip",
+        "url": "https://sourceforge.net/projects/legionrom/files/lmi/LegionOS-v3.6-lmi-20210214-1543-OFFICIAL-VANILLA.zip.zip/download",
+        "timestamp": "1613317264" ,
+        "md5sum": "e0c3e91867a60fbedca8697d17609e6c",
+        "size": 755118475,
+        "version": "3.6",
+        "romtype": "OFFICIAL"
+    }
+  ]
+}
