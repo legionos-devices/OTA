@@ -1,13 +1,1 @@
-{
-  "response": [
-    {
-        "filename": "LegionOS-v3.8-jasmine_sprout-20210318-2222-OFFICIAL-GAPPS.zip",
-        "url": "https://sourceforge.net/projects/legionrom/files/jasmine_sprout/LegionOS-v3.8-jasmine_sprout-20210318-2222-OFFICIAL-GAPPS.zip/download",
-        "timestamp": 9999999999,
-        "md5sum": "923d5236295898dcf15b13b9c9541368",
-        "size": 1659629033,
-        "version": "v3.8",
-        "romtype": "Official"
-    }
-  ]
-}
+{ "response": [ { "datetime": 9999999999, "filename": "LegionOS-v3.9-jasmine_sprout-202103120-6969-OFFICIAL-GAPPS.zip", "id": "d69e1e89659fb20df8fc58d16b63ca45c2fdcb948e4f6bb728cfabba00b4e568", "romtype": "OFFICIAL", "size": "1321101671", "url": "https://sourceforge.net/projects/legionrom/files/risk/LegionOS-v3.7-miatoll-20210318-2006-OFFICIAL-VANILLA.zip/download", "version": "v3.9", "device_brand": "Xiaomi", "device_model": "Mi a2", "device_codename": "jasmine_sprout", "developer": "Immanuel_Raj" } ] }
