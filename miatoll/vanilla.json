@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "LegionOS-v3.5-miatoll-20210124-1155-OFFICIAL-VANILLA.zip",
-        "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/vince\/LegionOS-v3.5-miatoll-20210124-1155-OFFICIAL-VANILLA.zip\/download",
-        "timestamp": "1611469449" ,
-        "md5sum": "4622eb0efc6d4ba114b2c00c1181dc37",
-        "size": 1153434,
+        "filename": "LegionOS-v3.7-miatoll-20210318-2006-OFFICIAL-VANILLA.zip",
+        "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/risk\/LegionOS-v3.7-miatoll-20210318-2006-OFFICIAL-VANILLA.zip\/download",
+        "timestamp": "1616078027" ,
+        "md5sum": "53b83fb1770d10bc59157de632f53ddc",
+        "size": 1321101671,
         "version": "11.0",
         "romtype": "OFFICIAL"
     }
