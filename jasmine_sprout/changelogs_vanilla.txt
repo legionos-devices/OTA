@@ -1,28 +1,30 @@
-Rom
+# 21-3-2021
 
- -Added heads up tile
- -Added double tap to sleep on home screen
- -Added new icons from one plus 
- -Added settings dashboard from one plus
- -Added signature spoofing support
- -Added Back arrow fron one plus(gesture)
- -Added per app network isolation
- -Added batter reset option
- -Added option to show memory usage in app info
- -Moved blur option to display section
- -Added adaptive play back
- -Added delete button in screenshot 
- -Added oos style notification clear all button
- -Added round corners for system ui
- -Added a new default wallpaper
- -Disable blur by default
- -Fixed bluetooth qs
- -Added Janaury security patch
- -Added missing Greek translations
- -Added Lpaper2.0
- -Some.misc fixes
+1)  Updated kernel to latest v261
+2)  Merged caf tags
+3)  Fixed audio recording in video mode
+4)  Switch to redfin fp & desc
+5)  Update some telephony overlays
+6)  Fix ir blaster not working
+7)  Tune some media codecs performance
+8)  Make shutdown a bit sooner
+9)  Adapt some props from stock
+10)  Adapt DPI to stock
+11)  Update blobs from A10 latest caf
+12)  Boost gpu to reduce lag when enabeling blur
+13)  Fix some sensor issues
+14)  Move to aidl eas power hal
+15)  Use aosp surface flinger
+16)  Fix some mic issues
+17)  FIx some issues with wired headphones
+18)  Some minor fixes
+19)  Misc improvements
 
-Device
+## CLEAN FLASH MUST
+
+### Thanks for suppport ....keep supporting.....have a great day....kthxbye
+
+# 03-2-2021
 
 1)  Moved to Westcoast superfast eas+ kernel
 2)  Removed Camera 2 (can install miui/gcam if needed from @yaa2g(telegram))
@@ -40,4 +42,20 @@ Device
 14) Added some z-ram improvements
 15) Disable blur by default
 
-### Thanks for suppport ....keep supporting.....have a great day....kthxbyeinitial testing
+### Thanks for suppport ....keep supporting.....have a great day....kthxbye
+
+# 13-2-2021
+
+1)  Moved to Halcyon 3.6
+2)  Fixed Low mic volume in video recording
+3)  Fixed hotspot not able to turn off
+4)  Removed the curved edges in gboard
+5)  Added back Device Settings
+6)  Added support/fixed ok google voice activation
+7)  Updated gps related stuff
+8)  Fixed offline charging
+9)  Tuned media codecs performances a bit
+10) Many more too (Lazy to type use roms and check plox)
+11) No logs no bugs 
+
+### Thanks for suppport ....keep supporting.....have a great day....kthxbye
