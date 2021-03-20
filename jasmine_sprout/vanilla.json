@@ -1,13 +1,1 @@
-{
-  "response": [
-    {
-        "filename": "LegionOS-v3.6-jasmine_sprout-20210213-1924-OFFICIAL-VANILLA.zip",
-        "url": "https://sourceforge.net/projects/legionrom/files/jasmine_sprout/LegionOS-v3.6-jasmine_sprout-20210213-1924-OFFICIAL-VANILLA.zip/download",
-        "timestamp": 1613224453,
-        "md5sum": "94b857df0f9e0e126a6f05847da3bb36",
-        "size": 849112398,
-        "version": "v3.6",
-        "romtype": "Official"
-    }
-  ]
-}
+{ "response": [ { "datetime": 1616274945, "filename": "LegionOS-v3.7-jasmine_sprout-20210321-OFFICIAL-VANILLA", "id": "5b27f36e851b2e921c3c96daf206d650", "romtype": "OFFICIAL", "size": "870875663", "url": "https://sourceforge.net/projects/legionrom/files/jasmine_sprout/LegionOS-v3.7-jasmine_sprout-20210321-OFFICIAL-VANILLA.zip/download", "version": "v11.0", "device_brand": "Xiaomi", "device_model": "Mi A2", "device_codename": "jasmine_sprout", "developer": "Immanuel Raj" } ] }
