@@ -1,13 +1,1 @@
-{
-  "response": [
-    {
-        "filename": "LegionOS-v3.6-x2-20210213-0850-OFFICIAL-VANILLA.zip",
-        "url": "https://sourceforge.net/projects/legionrom/files/lemax2/LegionOS-v3.6-x2-20210213-0850-OFFICIAL-VANILLA.zip/download",
-        "timestamp": 1613198911,
-        "md5sum": "56ddb20521edfe1054ebf1c570b8f48f",
-        "size": 767752554,
-        "version": "v3.6",
-        "romtype": "Official"
-    }
-  ]
-}
+{ "response": [ { "datetime": 1616252946, "filename": "LegionOS-v3.7-x2-20210320-OFFICIAL-VANILLA.zip", "id": "b7ce8c998f4bb21429ed776c36d3f2f77ccd0b1399bc0589da2705c377ef35d4", "romtype": "OFFICIAL", "size": "769123836", "url": "https://sourceforge.net/projects/legionrom/files/lemax2/LegionOS-v3.7-x2-20210320-OFFICIAL-VANILLA.zip/download", "version": "v11.0", "device_brand": "LeEco", "device_model": "x2", "device_codename": "x2", "developer": "CrisBalGreece" } ] }
