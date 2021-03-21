@@ -1,1 +1,6 @@
+Miatoll Changelog LegionOS 3.7 Vanilla
 
+* Updated to Latest Etherious-kernel 4.4.226 tag
+* Updated March Build fp
+* Address more denials
+* Minor Improvements
