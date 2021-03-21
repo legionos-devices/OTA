@@ -1,14 +1,20 @@
-LeEco Le Max2 device Vanilla/GAPPS build
-Gapps build including basic R-11 Gapps
+LeEco Le Max2 device Vanilla build
+NOTICE: For GAPPS LegionGapps R-11 recomended
 
- Changelog:Vanilla/Gapps
- - February 05 2021 security patches
- - Enforcing build
- - Including all our latest x2 tree updates
- - Including LeEco IR
- - Including latest LegionOS advanced settings
- - Latest BS 8.0-OC kernel on board
- - Fixed more denials
- - Fixed CPU throtling
- - Fixed Smart Charging
- - Fixed statusbar padding
+ # 20-3-2021
+
+1)  Updated kernel to latest BlackScreen 8.0.1-OC
+2)  Merged some caf tags
+3)  Fixed audio recording in video mode
+4)  Switch to March redfin fp
+5)  Update some tree overlays
+6)  Fix for smd sensor
+7)  Switched to DeviceDoze
+8)  Added new configs for AOD
+9)  Fix some hedset issues
+10) Fix minor issues
+11) Misc improvements
+
+## CLEAN FLASH RECOMENDED
+
+### Thanks for suppport ....keep supporting.....have a great day....goodbye
