@@ -1,7 +1,7 @@
 LeEco Le Max2 device GAPPS build v.3.7
 Gapps build including basic R-11 Gapps
 
- # 20-3-2021
+ # 21-3-2021
 
 1)  Updated kernel to latest BlackScreen 8.0.1-OC
 2)  Merged some caf tags
