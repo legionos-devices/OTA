@@ -17,7 +17,7 @@ SIZE=$(wc -c out/target/product/$DEVICE/LegionOS-v*.zip | awk '{print $1}')
 URL="https://sourceforge.net/projects/legionrom/files/$DEVICE/$FILENAME/download"
 VERSION="v11.0"
 ROMTYPE="OFFICIAL"
-JSON_FMT='{ "response": [ { "datetime": %s,"filename": %s,"id":%s,"romtype": "%s", "size":%s, "url":"%s", "version": "%s","device_brand": "%s","device_model": "%s","device_codename": "%s","developer": "%s"} ] }'
+JSON_FMT='{ "response": [ { "datetime": "%s","filename":" %s","id":"%s","romtype": "%s", "size":"%s", "url":"%s", "version": "%s","device_brand": "%s","device_model": "%s","device_codename": "%s","developer": "%s"} ] }'
 printf "$JSON_FMT" "$DATETIME" "$FILENAME" "$ID" "$ROMTYPE" "$SIZE" "$URL" "$VERSION" "$BRAND" "$MODEL" "$DEVICE" "$DEV"> OTA/$DEVICE/$FLAVOUR.json
 echo $/OTA/$DEVICE/$FLAVOUR.json file created
 
