@@ -5,7 +5,7 @@ MODEL=$4
 DEV=$5
 
 if [ $# -lt 5 ]; then
-    echo "Missing mandatory parameters it must be like this :- bash ota.sh jasmine_sprout vanilla Xioami A2 "IMMANUEL""
+    echo "Missing mandatory parameters it must be like this :- bash ota.sh jasmine_sprout vanilla Xioami A2 "Immanuel Raj""
     exit 1
 fi
 
@@ -20,3 +20,5 @@ ROMTYPE="OFFICIAL"
 JSON_FMT='{ "response": [ { "datetime": %s,"filename": %s,"id":%s,"romtype": "%s", "size":%s, "url":"%s", "version": "%s","device_brand": "%s","device_model": "%s","device_codename": "%s","developer": "%s"} ] }'
 printf "$JSON_FMT" "$DATETIME" "$FILENAME" "$ID" "$ROMTYPE" "$SIZE" "$URL" "$VERSION" "$BRAND" "$MODEL" "$DEVICE" "$DEV"> OTA/$DEVICE/$FLAVOUR.json
 echo $/OTA/$DEVICE/$FLAVOUR.json file created
+
+cd OTA && git add . && git commit -m "$DEVICE: Latest $FLAVOUR update" && git push LegionOS-Devices HEAD:11
