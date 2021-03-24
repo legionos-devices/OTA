@@ -1,0 +1,46 @@
+Version 3.7 Vanilla | Kernel 4.4 (24-03-2021)
+
+General:
+* Enforcing build
+* Update Nexus Kernel to V3 4.4.262
+* Update fingerprint to Redfin - RQ2A.210305.006 (cts passed without magisk)
+* Set permission for spidev7.1 IR node
+* Switch to AIDL Power HAL Pixels
+* Switch to AOSP surfaceflinger 
+* Enable iorapd
+* Loosen up charging thermal throttling thresholds
+* Adding XiaomiParts, XiaomiDoze and Dirac into the whitelist
+
+Fix:
+* Fix WFD Cast
+* Fix video playback in L1 fixed
+* L1 DRM Enable by default
+
+Apps: 
+* Add Gboard in Vanilla build
+
+Blobls: 
+* Add qrtr blobs
+* Update blobs from LA.UM.8.2.r1-07400-sdm660.0
+* Update perfd-client blobs from LA.UM.9.6.2.r1-03300-89xx.0
+* Update WFD blobs from LA.UM.9.6.2.r1-03300-89xx.0
+* Update libsdmcolor.so from LA.UM.8.2.r1-07500-sdm660.0
+* Update vulkan and graphics blobs from taimen
+* Update permissions Vulkan 1.1.128 (5.5)
+* Update mi sound from ginkgo MIUI V12.0.1.0.RCOCNXM
+* Update thermal/widevine blobs from jasmine V11.0.19.0.QDIMIXM
+
+XiaomiParts: 
+* Updates XiaomiParts to version 5.0
+
+* Drop Game turbo and Spectrum ( All those settings don't work well in SDM660, and it was causing poor performance).
+* The main menu has been organized so that the order of the settings is cooler.
+* Add XiaomiDoze and Tile launcher
+* Add dynamic thermal profile implementation
+* Updated some icons
+* Increase BootReceiver priority (Settings will be restored faster at startup).
+* Smart Charging: Nodes reverted to charging_enabled (input_suspend It wasn't working well)
+
+Credits:
+* Thanks @Golpiista, @Paramveer26 for tests!
+* Thanks @NotZeetaa for kernel!
