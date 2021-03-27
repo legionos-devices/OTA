@@ -1,13 +1,1 @@
-{
-  "response": [
-    {
-        "filename": "LegionOS-v2.11.5-ocean-20200910-OFFICIAL-Vanilla.zip",
-        "url": "https://sourceforge.net/projects/legionrom/files/ocean/LegionOS-v2.11.5-ocean-20200910-OFFICIAL-Vanilla.zip",
-        "timestamp": "1599774032" ,
-        "md5sum": "3316b5d2ba06c0482bc02dc18e39cc2b",
-        "size": 708021044,
-        "version": "10.0",
-        "romtype": "OFFICIAL"
-    }
-  ]
-}
+{ "response": [ { "datetime": "1616807281","filename":" LegionOS-v3.7-ocean-20210327-OFFICIAL-VANILLA.zip","id":"2aafa921fcff79ed35dabc61d054a1bb3d2c6023bb3be79ebb521bd5a05a09b5","romtype": "OFFICIAL", "size":"802219606", "url":"https://sourceforge.net/projects/legionrom/files/ocean/LegionOS-v3.7-ocean-20210327-OFFICIAL-VANILLA.zip/download", "version": "v11.0","device_brand": "Moto","device_model": "G7","device_codename": "ocean","developer": "Power"} ] }
