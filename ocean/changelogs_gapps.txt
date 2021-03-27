@@ -1,4 +1,4 @@
-# 22-3-2021
+# 27-03-2021
 
 1)  Initial rom
 2)  New maintainer
@@ -7,7 +7,7 @@
 5)  Included Moto Live Wallpapers 3
 6)  Rebase tree aosp
 7)  February 2021 Vendor Security Patch.
-8)  Updated blobs from QPOS30.52-29-12
+8)  Updated blobs from QPOS30.52-29-14
 9)  Removed some Google apps (Gmail, Photos, Chrome, Velvet, Drive, Device Health Services, Wellbeing and Files)
 
 ## CLEAN FLASH MUST
