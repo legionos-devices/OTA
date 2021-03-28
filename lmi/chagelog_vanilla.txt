@@ -1,36 +1,33 @@
 Device: Poco F2 Pro (lmi)
 Device maintainer: AbdullahPS
 
-==== 2021-02-14 ====
+==== 2021-03-27 ====
 
 Device Specific Changes
-😈 Add Support for Screen Off Fod
-😈 Add option to toggle off dt2w
-😈 Add More Carrier Overlays
-Source Changes
-😈-Added new dialer app (supports many new features with new ui )
-😈-Added new Messaging app (Supports many new features with new ui)
-😈-Added new clock app
-😈-Merged February security patch from google
-😈-Added long screenshot option aka extended screenshot
-😈-Added icon pack support in legion launcher
-😈-Many misc and animation and performance improvement for legion launcher
-😈-Added switch styles
-😈-Added tint/accent for switch styles
-😈-Added date customizations
-😈-Added clock customizations
-😈-Added some transalations
-😈-Increased qs panel height a bit
-😈-Removed qs drag header
-😈-Fixed a case when using dark mode give fc in some apps
-😈-Added option to tweak qs slider
-😈-Added qs data usage 
-😈-Fixed some anr when installing apps
-😈-Added new assistant ui from pixel5
-😈-Added pixel props(free storage in photos/new gboard/new assistant ui etc)
-😈-Invert nav bar
-😈-Added new kai and Sam icon pack
-😈-Fixed a case where system reboots while smart charging
-😈-Some minor refactoring cleanup and misc changes
+1.Adjusted Brightness values
+2.Selinux Enforcing
+3. Fixed low Audio recording on tg
+4.Fixes issue where fod icon was always there on screen off Fod
+5 Fixed Ok Google
+6.Updated Vendor to 12.2.5.0
 
+Source Changes
+*  Updated New wallpapers in the Lpapers app
+*  Update to march security patch
+*  New updater app UI
+*  Imply force redfin(Pixel 5) fingerprint
+*  Add qs tile styles customization
+*  Add qs header customization
+*  Introduce Extreme battery saver
+*  Enable IORap by default
+*  Downscale high-res-tasks
+* Update prebuilt apks
+* Updated gapps to Latest March
+* Fixed a case where bubble chats were crashing
+* Fixed a case where Data usage wasnt visible
+* Moved Data usage to qs
+* Add proximity check on wake
+* Enable some lock screen shortcuts by default
+* Some Dependency updates
+* Minor fixes and updates
 
