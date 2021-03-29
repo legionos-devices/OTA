@@ -1,5 +1,13 @@
-* Fix Audio Bugs.
-* Update audio,media and display hals.
-* Update blobs from stock 432 and qssi-cmi
-* CTS passing without magisk now.
-* Upstreamed kernel to 4.4.249.
+==============================
+      LegionOS 3.7 (Vanilla)
+==============================
+* Fixed Nightlight
+* Based on New Trees
+* Added OTA support
+* Banking apps like YNO , SBI etc.. working fine .
+* Latest pixel props added
+* Added tfa98xx feature support (soon implementation)
+* Added Overlays for devices specific 'Intelligent Profile'
+* Enable Vowifi Support
+* Added exfat driver
+* Other misc. changes 

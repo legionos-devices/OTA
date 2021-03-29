@@ -1,1 +1,15 @@
+==============================
+      LegionOS 3.7 (Gapps)
+==============================
+* Fixed Nightlight
+* Based on New Trees
+* Added OTA support
+* Banking apps like YNO , SBI etc.. working fine .
+* Kept basic Gapps Apps only 
+* Latest pixel props added 
+* Added tfa98xx feature support (soon implementation)
+* Added Overlays for devices specific 'Intelligent Profile'
+* Enable Vowifi Support
+* Added exfat driver 
+* Other misc. fixes 
 
