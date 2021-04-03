@@ -4,8 +4,8 @@
                   "date": "2021-04-03", 
                   "datetime": "1617390103", 
                   "filename": "LegionOS-v3.7-miatoll-20210403-OFFICIAL-VANILLA.zip", 
-                  "filepath": "/https://sourceforge.net/projects/legionrom/files/risk/LegionOS-v3.7-miatoll-20210403-OFFICIAL-VANILLA.zip/download", 
-                  "sha256": "65cb970d2e0fdaa40e4c7e072b06167c1af8c554acdf26e230d8dda893aaff25", 
+                  "filepath": "https://sourceforge.net/projects/legionrom/files/risk/LegionOS-v3.7-miatoll-20210403-OFFICIAL-VANILLA.zip/download", 
+                  "id": "65cb970d2e0fdaa40e4c7e072b06167c1af8c554acdf26e230d8dda893aaff25", 
                   "size": "1389379622", 
                   "type": "OFFICIAL", 
                   "version": "v11" 
