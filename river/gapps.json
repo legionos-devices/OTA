@@ -1,1 +1,14 @@
-{ "response": [ { "datetime": "1616810656","filename":" LegionOS-v3.7-river-20210327-OFFICIAL-GAPPS.zip","id":"0cb614f6352f9044b796f2b50efcbfd393b880b7bd2f165a1f6b7d72def1c2a7","romtype": "OFFICIAL", "size":"932443590", "url":"https://sourceforge.net/projects/legionrom/files/river/LegionOS-v3.7-river-20210327-OFFICIAL-GAPPS.zip/download", "version": "v11.0","device_brand": "Moto","device_model": "G7","device_codename": "river","developer": "VitorSSSouza"} ] }
+{
+ 	"response": [
+		 {
+								"date":"2021-04-04 ",
+								"datetime":"1617578175",
+								"filename":" LegionOS-v3.7-river-20210404-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/river/LegionOS-v3.7-river-20210404-OFFICIAL-GAPPS.zip/download",
+								"id":"ccb5eba5243637bfc4a387d3779d8cd93916ddbab462929a4d9d40198135db54",
+								"size":"1268656649",
+								"romtype":"OFFICIAL",
+								"version":"11.0",
+		}
+	]
+}
