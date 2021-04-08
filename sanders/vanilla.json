@@ -1,1 +1,14 @@
-{ "response": [ { "datetime": "1616527017","filename":" LegionOS-v3.7-sanders-20210323-OFFICIAL-VANILLA.zip","id":"3719377450716ca4c8e127ee64ac371fb8208f42607cd042c503aef458db4175","romtype": "OFFICIAL", "size":"809274241", "url":"https://sourceforge.net/projects/legionrom/files/sanders/LegionOS-v3.7-sanders-20210323-OFFICIAL-VANILLA.zip/download", "version": "v11.0","device_brand": "Moto","device_model": "G5S","device_codename": "sanders","developer": "Plus"} ] }
+{
+ 	"response": [
+		 {
+								"date":"2021-04-08 ",
+								"datetime":"1617889654",
+								"filename":" LegionOS-v3.8-sanders-20210408-OFFICIAL-VANILLA.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/sanders/LegionOS-v3.8-sanders-20210408-OFFICIAL-VANILLA.zip/download",
+								"id":"a61f9633872d723d19836e9307f8fd30e848d2e927223f54f13288e4b22d1690",
+								"size":"851171599",
+								"romtype":"OFFICIAL",
+								"version":"11.0",
+		}
+	]
+}
