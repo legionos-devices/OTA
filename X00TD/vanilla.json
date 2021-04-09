@@ -1,1 +1,14 @@
-{ "response": [ { "datetime": "1616993714","filename":" LegionOS-v3.7-X00TD-20210329-OFFICIAL-VANILLA.zip","id":"eda08d1cba6179e40acdd97d20ae51d555e7ddb4cda5e6a9019fce7db3a3a8a7","romtype": "OFFICIAL", "size":"794394090", "url":"https://sourceforge.net/projects/legionrom/files/X00TD/LegionOS-v3.7-X00TD-20210329-OFFICIAL-VANILLA.zip/download", "version": "v11.0","device_brand": "Asus","device_model": "ZenFone_Max_Pro_M1","device_codename": "X00TD","developer": "Ken_kaneki_69"} ] }
+{
+ 	"response": [
+		 {
+								"date":"2021-04-09 ",
+								"datetime":"1617973228",
+								"filename":" LegionOS-v3.8-X00TD-20210409-OFFICIAL-VANILLA.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/X00TD/LegionOS-v3.8-X00TD-20210409-OFFICIAL-VANILLA.zip/download",
+								"id":"155bb1559c9f74fd488f799cea1c0afe14d3b1af4c14d38fe068834965c533ae",
+								"size":"845986735",
+								"romtype":"OFFICIAL",
+								"version":"11.0",
+		}
+	]
+}
