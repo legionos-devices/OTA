@@ -1,0 +1,9 @@
+# 09-04-2021
+- Fixed faceunlock after first registration
+
+# 08-04-2021
+
+- First official build
+- Kernel upstreamed to 4.9.264
+- Added KLapse tunings in RealmeParts
+- Translated RealmeParts in es
