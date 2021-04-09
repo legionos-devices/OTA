@@ -1,1 +1,14 @@
-{ "response": [ { "datetime": "1617371678","filename":" LegionOS-v3.7-x2-20210402-OFFICIAL-VANILLA.zip","id":"f4f5f6ac5704d61a64b2acd8658262ce454462583e9c851bee4f8fdb1e33cc99","romtype": "OFFICIAL", "size":"791653194", "url":"https://sourceforge.net/projects/legionrom/files/x2/LegionOS-v3.7-x2-20210402-OFFICIAL-VANILLA.zip/download", "version": "v11.0","device_brand": "LeEco","device_model": "LEX820","device_codename": "x2","developer": "CrisBalGreece"} ] }
+{
+ 	"response": [
+		 {
+								"date":"2021-04-09 ",
+								"datetime":"1617980304",
+								"filename":" LegionOS-v3.8-x2-20210409-OFFICIAL-VANILLA.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/x2/LegionOS-v3.8-x2-20210409-OFFICIAL-VANILLA.zip/download",
+								"id":"c41bf2318400e95e51af8e6b7093639e9584f0344af383ce024b0fe560200430",
+								"size":"832619718",
+								"romtype":"OFFICIAL",
+								"version":"11.0",
+		}
+	]
+}
