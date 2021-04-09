@@ -19,4 +19,4 @@ JSON_FMT='{\n \t"response": [\n\t\t {\n\t\t\t\t\t\t\t\t\"date":"%s ",\n\t\t\t\t\
 printf "$JSON_FMT" "$DATE" "$DATETIME" "$FILENAME" "$URL" "$ID" "$SIZE"  "$ROMTYPE" "$VERSION" > OTA/$DEVICE/$FLAVOUR.json
 echo $FLAVOUR.json file created
 
-cd OTA && git add . && git commit -m "$DEVICE: Latest $FLAVOUR update" && git push LegionOS-Devices HEAD:11
+cd OTA && git add . && git commit -m "$DEVICE: Latest $FLAVOUR update" && git push LegionOS-Devices -f  HEAD:11
