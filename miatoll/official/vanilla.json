@@ -1,19 +1,14 @@
 {
- 	"response": [
-		 {
-								"date":"2021-04-10 ",
-								"datetime":"1617978331",
-								"filename":" LegionOS-v3.8-miatoll-20210408-OFFICIAL-VANILLA.zip
-LegionOS-v3.8-miatoll-20210409-OFFICIAL-VANILLA.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/miatoll/LegionOS-v3.8-miatoll-20210408-OFFICIAL-VANILLA.zip
-LegionOS-v3.8-miatoll-20210409-OFFICIAL-VANILLA.zip/download",
-								"id":"db98723332290e8eb1738452a8a864fa0c7e96bb06dc4e99b54f729f7e4794ff
-c2e940e0fbc3522bbd2315e2da7fb049299f5761f5e2ebf9b0254093ad30950a",
-								"size":"1447402390
-1472298649
-2919701039",
-								"romtype":"OFFICIAL",
-								"version":"11.0"
-		}
-	]
+  "response": [
+    {
+                  "date": "2021-04-09", 
+                  "datetime": "1617978331", 
+                  "filename": "LegionOS-v3.8-miatoll-20210409-OFFICIAL-VANILLA.zip", 
+                  "url": "https://sourceforge.net/projects/legionrom/files/miatoll/LegionOS-v3.8-miatoll-20210409-OFFICIAL-VANILLA.zip/download", 
+                  "id": "c2e940e0fbc3522bbd2315e2da7fb049299f5761f5e2ebf9b0254093ad30950a", 
+                  "size": "1472298649", 
+                  "romtype": "OFFICIAL", 
+                  "version": "11.0" 
+    }
+  ]
 }
