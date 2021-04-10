@@ -1,5 +1,5 @@
 ==============================
-      LegionOS 3.7 (Gapps)
+      LegionOS 3.8 (Gapps)
 ==============================
 * Again rebased full trees
 * Imported audio blobs from back in android oreo times when audio was good and loud.
