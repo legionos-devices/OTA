@@ -2,6 +2,7 @@
       LegionOS 3.8 (Vanilla)
 ==============================
 * Again rebased full trees
+* Added OP camera by default
 * Imported audio blobs from back in android oreo times when audio was good and loud.
 * Rebased trees over los sources.
 * Switched to LED based Vibration.
