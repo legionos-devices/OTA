@@ -7,3 +7,6 @@ Miatoll Changelog LegionOS 3.7 Vanilla
 * Fixup mic in whatsapp
 * Set fast charging indicator threshold to 10.8W
 * Minor Improvements
+
+
+* Note :- LegionOS Gapps is recommended 
