@@ -1,4 +1,4 @@
-LeEco Le Max2 device GAPPS build v.3.7
+LeEco Le Max2 device GAPPS build v.3.8
 Gapps build including basic R-11 Gapps
 
  # 09-04-2021
