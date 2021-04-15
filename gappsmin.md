@@ -1,4 +1,5 @@
 ##    Introducing LegionGApps-R-11.0-Vanilla-arm64     ##
+IMPORTAND NOTICE! For miatoll, use only  NickGapps.
 
 - Basic/Vanilla GApps package for LegionOS Vanilla builds.
 
