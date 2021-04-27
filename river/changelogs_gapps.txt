@@ -1,0 +1,33 @@
+# 14-4-2021
+
+1) SELinux is now Enforcing.
+2) Fixed Hotspot.
+3) April 2021 Security Patch.
+4) Bump to LegionOS 3.8.
+5) Updated Dolby Blobs and Codecs from Moto G Pro (Sofiap - RPRS31.Q4U-20-30) by Deivid.
+6) Pinned screen mode gestures.
+7) Security Patch: 05 April 2021.
+8) New face unlock, safe and designer.
+9) Add FM Radio LineageOS.
+10) Laucher was switched to LegionOS instead of Google.
+11) Updated Moto Live Wallpapers and Moto Frameworks from Moto G⁶⁰ (Hanoip - RRI31.Q1-42-24-1) by Deivid.
+12) Updated Moto Clock Widget to 4.05.17. 
+13) Rebase trees Common, Doritos Vendor. 
+14) OTA: Manual installation is recommended as TWRP is lost.
+
+## CLEAN FLASH MUST ##
+
+# 27-3-2021
+
+1) Now is stable
+2)  Included Moto Camera 2
+3)  Included Moto Audio
+4)  Included Moto Live Wallpapers 3
+5)  Rebase tree aosp
+6)  February 2021 Vendor Security Patch.
+7)  Updated blobs from QPOS30.52-29-14
+9)  Removed some Google apps (Gmail, Photos, Chrome, Velvet, Drive, Device Health Services, Wellbeing and Files)
+
+## CLEAN FLASH MUST
+
+### Thanks for suppport ....keep supporting.....have a great day....kthxbye
