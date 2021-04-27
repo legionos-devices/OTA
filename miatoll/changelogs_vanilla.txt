@@ -1,12 +1,7 @@
-Miatoll Changelog LegionOS 3.7 Vanilla
+Miatoll Changelog LegionOS 3.8 Vanilla
 
-* Updated Etherious-kernel 
-* zram tuning
-* Added lmkd prop
+* Updated to Latest Etherious-kernel 4.4.226 tag
+* Updated March Build fp
 * Address more denials
-* Fixup mic in whatsapp
-* Set fast charging indicator threshold to 10.8W
+* Fixed Ok google 
 * Minor Improvements
-
-
-* Note :- LegionOS Gapps is recommended 

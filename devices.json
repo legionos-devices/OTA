@@ -1,0 +1,28 @@
+[
+    {
+	"brand": "Xiaomi",
+	"name": "Redmi Note 9 PRO",
+	"codename": "miatoll",    
+	"maintainer_name": "RajKale",
+	"maintainer_xda": "null",
+	"maintainer_country": "IND",
+	"xda_thread": "",
+	"active": true,
+	"supported_versions": [ "11" ],
+        "supported_types": [ "gapps", "vanilla" ],
+	"donation_link": ""
+    },
+	{
+		"brand": "Xiaomi",
+		"name": "Redmi K20 Pro",
+		"codename": "raphael",    
+		"maintainer_name": "AnonHacker",
+		"maintainer_xda": "null",
+		"maintainer_country": "IND",
+		"xda_thread": "",
+		"active": true,
+		"supported_versions": [ "11" ],
+			"supported_types": [ "gapps", "vanilla" ],
+		"donation_link": ""	
+	}
+]
