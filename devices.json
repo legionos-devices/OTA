@@ -50,5 +50,18 @@
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": ""	
+    },
+    {
+        "brand": "Motorola",
+        "name": "Moto G (5S) Plus",
+        "codename": "sanders",    
+        "maintainer_name": "Lucas Ponez",
+        "maintainer_xda": "https://forum.xda-developers.com/m/pintoslp.9941920/",
+        "maintainer_country": "BR",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-sanders-legionos-aosp.4223735/",
+        "active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "vanilla" ],
+        "donation_link": "https://tinyurl.com/donatetopintos"	
     }
 ]
