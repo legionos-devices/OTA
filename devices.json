@@ -37,5 +37,18 @@
         "supported_versions": [ "11" ],
         "supported_types": [ "vanilla" ],
         "donation_link": "https://paypal.me/immanuelr44?locale.x=en_GB"	
+    },
+    {
+        "brand": "LeEco",
+        "name": "LeEco Le Max2",
+        "codename": "x2",    
+        "maintainer_name": "CrisBalGreece",
+        "maintainer_xda": "https://forum.xda-developers.com/m/crisbalgreece.7565215/",
+        "maintainer_country": "GRC",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-legionos-v-3-8-r-11-official-leeco-lemax2-x2.4214853/",
+        "active": false,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "gapps", "vanilla" ],
+        "donation_link": ""	
     }
 ]
