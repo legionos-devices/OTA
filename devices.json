@@ -35,7 +35,7 @@
         "xda_thread": "https://forum.xda-developers.com/t/11-rom-official-project-legion-os.4177901/",
         "active": true,
         "supported_versions": [ "11" ],
-        "supported_types": [ "gapps", "vanilla" ],
+        "supported_types": [ "vanilla" ],
         "donation_link": "https://paypal.me/immanuelr44?locale.x=en_GB"	
     }
 ]
