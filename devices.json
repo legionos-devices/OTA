@@ -76,5 +76,18 @@
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://www.paypal.com/paypalme/penetrator007"	
+    },
+    {
+        "brand": "Xiaomi",
+        "name": "POCO X3",
+        "codename": "surya",    
+        "maintainer_name": "AmJith_Babu",
+        "maintainer_xda": "https://forum.xda-developers.com/m/amjith-babu97.8342680/",
+        "maintainer_country": "IND",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-official-legionos-surya.4269939/#post-84929199",
+        "active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "vanilla" ],
+        "donation_link": "https://paypal.me/TheMarc43"	
     }
 ]
