@@ -65,6 +65,19 @@
         "donation_link": "https://tinyurl.com/donatetopintos"	
     },
     {
+        "brand": "Realme",
+        "name": "Realme XT",
+        "codename": "RMX1921",    
+        "maintainer_name": "ThatisJigen",
+        "maintainer_xda": "https://forum.xda-developers.com/m/thatisjigen.10139493/",
+        "maintainer_country": "IT",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-rmx1921-official-legionos-aosp.4271021/",
+        "active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "vanilla" ],
+        "donation_link": "https://paypal.me/thatisjigen"	
+    },
+    {
         "brand": "Xiaomi",
         "name": "Redmi 6 Pro",
         "codename": "sakura",    
