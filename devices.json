@@ -123,5 +123,20 @@
         "supported_versions": [ "11" ],
         "supported_types": [ "vanilla" ],
         "donation_link": "https://paypal.me/TheMarc43"	
+    },
+    {
+        "brand": "Xiaomi",
+        "name": "MI 8 SE",
+        "codename": "sirius",    
+        "maintainer_name": "dimasyudha",
+        "maintainer_xda": "https://forum.xda-developers.com/m/dimasyudha.8522623/",
+        "maintainer_country": "ID",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-official-10-0-sirius-legion-v2-9-2020-06-27.4122547",
+	"github_link": "https://github.com/dimasyudhaofficial",
+	"telegram_link": "https://t.me/dimasyudha",
+        "active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "vanilla" ],
+        "donation_link": "https://paypal.me/yudhadimas"	
     }
 ]
