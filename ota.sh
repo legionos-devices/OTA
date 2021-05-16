@@ -1,19 +1,26 @@
 DEVICE=$1
 FLAVOUR=$2
-NAME=$3
-MAIL=$4
 DATE=$(date +%Y-%m-%d)
 
-if [ $# -lt 4 ]; then
-    echo "Missing mandatory parameters it must be like this :- bash ota.sh jasmine_sprout vanilla IMMANUEL44(github name) immanuel@gmail.com(github mail)"
+if [ $# -lt 2 ]; then
+    echo "Missing mandatory parameters it must be like this :- bash ota.sh jasmine_sprout vanilla/gapps"
     exit 1
 fi
 
+if [ $FLAVOUR == "vanilla" ]; then
 DATETIME=$(grep "ro.build.date.utc=" out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
-FILENAME=$(find out/target/product/$DEVICE/LegionOS-v*.zip | cut -d "/" -f 5)
-ID=$(sha256sum out/target/product/$DEVICE/LegionOS-v*.zip | cut -d " " -f 1)
+FILENAME=$(find out/target/product/$DEVICE/LegionOS-v*VANILLA.zip | cut -d "/" -f 5)
+ID=$(sha256sum out/target/product/$DEVICE/LegionOS-v*VANILLA.zip | cut -d " " -f 1)
 FILEHASH=$ID
-SIZE=$(wc -c out/target/product/$DEVICE/LegionOS-v*.zip | awk '{print $1}')
+SIZE=$(wc -c out/target/product/$DEVICE/LegionOS-v*VANILLA.zip | awk '{print $1}')
+else
+DATETIME=$(grep "ro.build.date.utc=" out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
+FILENAME=$(find out/target/product/$DEVICE/LegionOS-v*GAPPS.zip | cut -d "/" -f 5)
+ID=$(sha256sum out/target/product/$DEVICE/LegionOS-v*GAPPS.zip | cut -d " " -f 1)
+FILEHASH=$ID
+SIZE=$(wc -c out/target/product/$DEVICE/LegionOS-v*GAPPS.zip | awk '{print $1}')
+fi
+
 URL="https://sourceforge.net/projects/legionrom/files/$DEVICE/$FILENAME/download"
 VERSION="11.0"
 ROMTYPE="OFFICIAL"
@@ -21,4 +28,4 @@ JSON_FMT='{\n \t"response": [\n\t\t {\n\t\t\t\t\t\t\t\t"date":"%s ",\n\t\t\t\t\t
 printf "$JSON_FMT" "$DATE" "$DATETIME" "$FILENAME" "$URL" "$ID" "$SIZE"  "$ROMTYPE" "$VERSION" > OTA/$DEVICE/official/$FLAVOUR.json
 echo $FLAVOUR.json file created
 
-cd OTA && git add . && git commit -m "$DEVICE: Latest $FLAVOUR update" && git commit --amend --author="$NAME <$MAIL>" && git push -q https://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@github.com/legionos-devices/OTA HEAD:11
+cd OTA && git add . && git commit -m "$DEVICE: Latest $FLAVOUR update" && git push LegionOS-Devices HEAD:11
