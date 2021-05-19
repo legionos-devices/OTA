@@ -1,3 +1,10 @@
+# 19-05-2021
+- Added auto-HBM mode
+- Cleaned up vendor
+- Kernel upstreamed to 4.9.268
+- Blobs updated from CAF
+- Performance and stability misc improvements
+
 # 09-04-2021
 - Fixed faceunlock after first registration
 
