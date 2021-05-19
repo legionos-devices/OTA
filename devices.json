@@ -157,7 +157,7 @@
         "supported_versions": [ "11" ],
         "supported_types": [ "vanilla" ],
         "donation_link": "https://paypal.me/yudhadimas"	
-    }
+    },
     {
         "brand": "Xiaomi",
         "name": "Redmi Note 7 PRO",
@@ -173,5 +173,5 @@
     	"supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
     	"donation_link": ""
-    },
+    }
 ]
