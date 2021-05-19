@@ -44,7 +44,7 @@
 	    "telegram_link": "https://t.me/Immanuel_Raj",
         "active": true,
         "supported_versions": [ "11" ],
-        "supported_types": [ "vanilla" ],
+        "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/immanuelr44?locale.x=en_GB"	
     },
     {
