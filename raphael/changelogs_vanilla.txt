@@ -1,0 +1,8 @@
+# 20-5-2021
+
+1) Show battery icon in header
+2) Enable FPS counter
+3) Enable support for Bluetooth hearing aids 
+4) overlay: improve padding between signal icons and battery icon
+5) Add RetroMusicPlayer
+6) Add faceunlock to biometric auth overlay 
