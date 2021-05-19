@@ -1,3 +1,38 @@
+# 20-05-2021
+
+## CLEAN FLASH MUST
+## CLEAN FLASH MUST
+## CLEAN FLASH MUST
+## CLEAN FLASH MUST
+## CLEAN FLASH MUST
+
+1) Built using the latest 4.19 Kernel
+2) Update Bt blobs from sdm660 4.14
+3) Update Ril blobs cutrtana
+4) Update some more blobs from sdm660 4.14
+5) Updated Thermal blobs from curtana (Better temperatures)
+6) Updated Thermal configs from curtana (Better management of thermals)
+7) Updated Perf blobs from curtanan (Better performance)
+8) Increased earpiece volume
+9) Increased bass on all the output devices
+10) Increased Mic gain 
+11) Removed Device Settings (Xiaomi Parts)
+12) Enforcing selinux
+13) Disabled AOD (LOL ! WE HAVE A LCD DISPLAY XD)
+14) Updated many many blobs
+
+IF U HAVE ANY BUGS REPORT [HERE](https://t.me/yaa2g)
+
+BUGS CURRENTLY:-
+
+ Nothing , you tell me
+
+## CLEAN FLASH MUST
+## CLEAN FLASH MUST
+## CLEAN FLASH MUST
+## CLEAN FLASH MUST
+## CLEAN FLASH MUST
+
 # 21-3-2021
 
 1)  Updated kernel to latest v261
