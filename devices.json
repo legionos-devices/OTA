@@ -17,6 +17,22 @@
     },
     {
         "brand": "Xiaomi",
+        "name": "Redmi K30 5G",
+        "codename": "picasso",    
+        "maintainer_name": "masemoel",
+        "maintainer_xda": "https://forum.xda-developers.com/m/masemoel.10048014/",
+    	"maintainer_country": "SPA",
+    	"xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0_r37-stable-picasso-legionos-3-8.4250053/",
+        "photo": "https://avatars.githubusercontent.com/u/64311706?v=4",
+    	"github_link": "https://github.com/masemoel",
+	    "telegram_link": "https://t.me/masemoel",
+    	"active": true,
+    	"supported_versions": [ "11" ],
+        "supported_types": [ "gapps" ],
+    	"donation_link": "https://paypal.me/masemoel"
+    },
+    {
+        "brand": "Xiaomi",
         "name": "Redmi K20 Pro",
         "codename": "raphael",    
         "maintainer_name": "AnonHacker",
