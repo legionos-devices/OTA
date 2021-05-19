@@ -142,4 +142,20 @@
         "supported_types": [ "vanilla" ],
         "donation_link": "https://paypal.me/yudhadimas"	
     }
+    {
+        "brand": "Xiaomi",
+        "name": "Redmi Note 7 PRO",
+        "codename": "violet",    
+        "maintainer_name": "Tamizh_Arasan",
+        "maintainer_xda": "https://forum.xda-developers.com/m/no-1opensourcelover.10887665/",
+    	"maintainer_country": "IND",
+    	"xda_thread": "",
+        "photo": "https://avatars.githubusercontent.com/u/67329471?s=60&v=4",
+    	"github_link": "https://github.com/no1opensourcelover",
+	    "telegram_link": "https://t.me/fosslover",
+    	"active": true,
+    	"supported_versions": [ "11" ],
+        "supported_types": [ "gapps", "vanilla" ],
+    	"donation_link": ""
+    },
 ]
