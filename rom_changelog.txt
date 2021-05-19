@@ -1,3 +1,25 @@
+LegionOS 3.9
 
-example 
-example example example example example 
+* New Legion Settings UI
+* Update to May security patch
+* Imply force redfin(Pixel 5) fingerprint
+* Added Brightness bar Style
+* Added new Volume panels (from miui/Android8/Tiles/compact etc)
+* Updated Some prebuilt apks
+* Enable IORap by default
+* Cleanup and rebuild legion setting with new ui and animation (You may face some glitches please bear with us we will be done soon with it)
+* Fixed some permission problmes
+* Moved Date/Day to qs header
+* Moved Battery to qs header
+* Spoofed User build for all build even though it shows userdebug
+* Added Lock Immediately option to app lock
+* Added option to set/lock Refresh rate (Only for supported devices)
+* Changed to hashmap from arraymap (Increases performance)
+* Fix some Face unlock and App lock logics
+* Updated Pixel Props to May
+* Removed some Line dividers which make the UI look ehh
+* Updated some Long screenshot related dependencies
+* Made the system wet well with magisk
+* Added share button in launcer menu
+* Added new icon pack implementation
+* Added New Default Wallpaper
