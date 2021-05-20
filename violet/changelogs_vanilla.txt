@@ -1,0 +1,7 @@
+20-05-2021:
+
+1) Initial Official Build.
+2) K2-141b Kernel Prebuilt (Thanks to @karthik558).
+3) User build.
+4) Based on PE trees (Thanks to @dasshubham762).
+5) GCam Go Prebuilt.
