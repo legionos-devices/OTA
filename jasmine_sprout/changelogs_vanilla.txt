@@ -21,11 +21,13 @@
 13) Disabled AOD (LOL ! WE HAVE A LCD DISPLAY XD)
 14) Updated many many blobs
 
-IF U HAVE ANY BUGS REPORT [HERE](https://t.me/yaa2g)
+IF U HAVE ANY BUGS REPORT https://t.me/yaa2g
 
 BUGS CURRENTLY:-
 
  Nothing , you tell me
+
+Incase you face any crashes in geekbench or pubg etc use this magisk module --> https://t.me/yaa2c/10
 
 ## CLEAN FLASH MUST
 ## CLEAN FLASH MUST
