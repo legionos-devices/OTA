@@ -2,11 +2,11 @@
  	"response": [
 		 {
 								"date":"2021-05-20 ",
-								"datetime":"1621520417",
-								"filename":"LegionOS-v3.9-violet-20210520-1422-OFFICIAL-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/violet/LegionOS-v3.9-violet-20210520-1422-OFFICIAL-GAPPS.zip/download",
-								"id":"0ef17ac60958cc62fc2b3050279bee55b4de5f947724719e777695313e15c36a",
-								"size":"1275898676",
+								"datetime":"1621522593",
+								"filename":"LegionOS-v3.9-violet-20210520-1456-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/violet/LegionOS-v3.9-violet-20210520-1456-OFFICIAL-GAPPS.zip/download",
+								"id":"db500d28af015c0e1924fefb7b0ba817ffa2a7c46f0d0530be85daa7ad4cb4a4",
+								"size":"1275900921",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
