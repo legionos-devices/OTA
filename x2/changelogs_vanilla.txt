@@ -1,7 +1,7 @@
 LeEco Le Max2 device Vanilla build
 NOTICE: For GAPPS LegionGapps R-11 recomended
 
- # 21-05-2021 - v.3.6.9
+ # 21-05-2021 - v.3.9
 
 1)  Kernel is BlackScreen 8.0.1 Normal
 2)  New tree updates
