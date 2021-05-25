@@ -1,0 +1,15 @@
+# 25-05-2021
+
+- Update prebuilt kernel to MIUI EU 21.5.20.
+- First official build, with GApps included.
+- Source updated to LegionOS 3.9 source (3.9 changelog here).
+- Added face unlock feature.
+- Some bluetooth audio improvements.
+- Some performance tweaks.
+- Include APN configs from stock (fixes data mobile issues in some countries).
+- Increased status bar padding at the left of the status bar.
+- Added Notch bar killer overlay to developer options (lets you fill the screen completely in landscape mode).
+- Added Hide notch overlay to developer options (fills the status bar space empty).
+- [NEW] Enabled OTA support for future updates.
+
+Clean flash is recommended! Enjoy this first official build for picasso.
