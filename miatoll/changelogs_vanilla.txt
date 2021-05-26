@@ -1,6 +1,6 @@
 Miatoll Changelog LegionOS 3.9 Vanilla
 
-* Upstreamed Etharious kernel 4.14.334
+* Upstreamed Etharious kernel 4.14.234
 * Updated May Build fp
 * Build with signed for more security
 * Major Improvement for performance and stability
