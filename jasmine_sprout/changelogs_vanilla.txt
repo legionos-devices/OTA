@@ -1,3 +1,26 @@
+# 26-5-2021
+
+1)  Enabled back widevine
+2)  Updated widevine blobs from Redmi note 8
+3)  Updated wifi drivers from Redmi note 8
+4)  Fixed Crash on netflix
+5)  FIxed crash on Pubg/3d Mark/Geekbench etc
+6)  Fixed a ton ton of sepolicy
+7)  Removed Many unwanted drivers
+8)  Boosted perforamnce
+9)  Added some powerhit relates stuff
+10)  Fixed some broken powerhint
+11)  Updated kernel to 4.19.191
+12)  Enhanced earpiece/mic gain/audio natively
+13)  Boosted speaker audio
+14)  Added support for fasatcharging
+15)  Many kernel imporvements (Thanks to Anush)
+16)  Some minimal rom side goodies which were not mentioned in roms changelog
+
+Note :- OTA Pushed....Clea flash always best
+
+### Thanks for suppport ....keep supporting.....have a great day....kthxbye
+
 # 20-05-2021
 
 ## CLEAN FLASH MUST
