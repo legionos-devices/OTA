@@ -1,0 +1,17 @@
+# 26-06-2021
+
+• Switch to half res bootanimation
+• Hide magisk better
+• Fix lag while screen recording
+• Remove hw_acc effect 
+• Set beacon missed count threshold
+• Migrate to Health 2.1 HAL
+• Boost performance by skipping EAS
+• Update build fingerprint/desc from redfin [MAY]
+• Tune zram performance 
+• Set voice call volume steps to 6
+• Switched to"Turbo charging" instead of "Charging rapidly"
+• Fix Lags On Live Wallpapers
+• Import missing SurfaceFlinger props from sunfis
+• Set in_voice_rec_headset_mic
+• Define SYS_NICE caps for android.hardware.audio@2.0-service
