@@ -1,6 +1,18 @@
 LeEco Le Max2 device GAPPS build
 Gapps build including basic R-11 Gapps
 
+# 31-05-2021 - v.3.9
+
+1)  Initial user build
+2)  Fixed instagram flickering issues
+3)  Fixed new denials
+4)  Fixed sepolicy after new updates
+5)  Enabled iorapd and adreess denials
+6)  Define graphics allocator and mapper
+7)  Updated media codecs
+8)  Some gboard tweeks
+9)  More Greek translations
+
  # 21-05-2021 - v.3.9
 
 1)  Kernel is BlackScreen 8.0.1 Normal
