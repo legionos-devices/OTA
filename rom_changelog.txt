@@ -1,25 +1,17 @@
-LegionOS 3.9
+LegionOS 3.10
 
-* New Legion Settings UI
-* Update to May security patch
-* Imply force redfin(Pixel 5) fingerprint
-* Added Brightness bar Style
-* Added new Volume panels (from miui/Android8/Tiles/compact etc)
-* Updated Some prebuilt apks
-* Enable IORap by default
-* Cleanup and rebuild legion setting with new ui and animation (You may face some glitches please bear with us we will be done soon with it)
-* Fixed some permission problmes
-* Moved Date/Day to qs header
-* Moved Battery to qs header
-* Spoofed User build for all build even though it shows userdebug
-* Added Lock Immediately option to app lock
-* Added option to set/lock Refresh rate (Only for supported devices)
-* Changed to hashmap from arraymap (Increases performance)
-* Fix some Face unlock and App lock logics
-* Updated Pixel Props to May
-* Removed some Line dividers which make the UI look ehh
-* Updated some Long screenshot related dependencies
-* Made the system wet well with magisk
-* Added share button in launcer menu
-* Added new icon pack implementation
-* Added New Default Wallpaper
+*  Update to June security patch
+*  Added Edge lighting (Ambient customization)
+*  Our notifications now show colourd/app icons
+*  Added New Default Wallpaper
+*  New Legion Settings UI Header
+*  Spoofed More apps to use Pixel FP
+*  Moved to usb hal 1.1 source wide
+*  Added Gesture Navigation related customization (Extended/Long swipe ...Dead zone...Gesture bar radius/size...Sensitivity ...etc etc)
+*  Ship Gcam GO by default for all device (Except that if developer ovverides)
+*  Dynamic Changelog (See changelog before updating device)
+*  Fix Legion Settings crashes
+*  Use a new Package installer (From dotOS) [New ui]
+*  Added Bluetooth SBC HD codec as default for all devices
+*  Fixed some Bluetooth A2dp and QTI bt stuffs
+*  Updated AOSP Bluetooth and oss bluetooth
