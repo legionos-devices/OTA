@@ -1,3 +1,25 @@
+# 18-6-2021
+
+1) Fixed many sepolicy denials by power hal (Better power optimisation/performance)
+2) Removed some unneeded display blobs (Less vendor and roms size)
+3) Updated Ipa-cfg-mgr (Internet related stuff) to latest sdm660-4.19
+4) Fixed Smart charging
+5) Removed some less necessary apps
+6) Shipped GcamGO by default
+7) Updated bluetooth and Wifi from ginkgo weekly china update (Better audio as rom now ships SBC hd audio from this update)
+8) Updated blobs from curtana
+9) Fixed Some minor lags/stutters (Media playback related stuff should be better and optimised)
+10) Some Zram optimization
+11) Added support for in call music
+12) Updated soundtrigger from lemon 
+
+
+Note :- OTA Pushed....Clea flash always best
+
+PS:- Battery stats may not show in settings (Am working on it i will fix soon and if i find it i will push another update in middle of the month if not i will mention in changelog when its done) its not a error ..i ignored it as its a less used thing and i shipped update cause there are more fixes and new things hope u all understand
+
+### Thanks for suppport ....keep supporting.....have a great day....kthxbye
+
 # 26-5-2021
 
 1)  Enabled back widevine
