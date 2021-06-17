@@ -1,4 +1,10 @@
-# 20-5-2021
+# LegionOS 3.10 Changelog
+1) Update to Redfin June 2021 fingerprint
+2) Add support for Battery Health 
+
+
+# LegionOS 3.9 Changelog
+
 
 1) Show battery icon in header
 2) Enable FPS counter
