@@ -2,11 +2,11 @@
  	"response": [
 		 {
 								"date":"2021-06-19 ",
-								"datetime":"1624085849",
+								"datetime":"1624094484",
 								"filename":"LegionOS-v3.10-sirius-20210619-OFFICIAL-GAPPS.zip",
 								"url":"https://sourceforge.net/projects/legionrom/files/sirius/LegionOS-v3.10-sirius-20210619-OFFICIAL-GAPPS.zip/download",
-								"id":"9cf2b2139b081a8b7ea4e7f1f82ee0d6be5df64ddf5a1da767b584eecf0b2d1f",
-								"size":"1335578514",
+								"id":"229f7903611037dd07ec8e266f729415f760e36ce94966ed74db5cb65af1e0b5",
+								"size":"1335577607",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
