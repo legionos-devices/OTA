@@ -1,12 +1,5 @@
-# 23-3-2021
+# 19-06-2021
 
-1) Update to march security patch
-2) Add fingerprint configuration to overlay
-3) Remove AEC and NS from audio_effects
-4) SELinux enforcing
+Device side:
 
-# Source side changelog: https://blog.legionos.org/2020-03-21/Themarchpatch
-
-## CLEAN FLASH MUST
-
-### Thanks for suppport ....keep supporting.....have a great day....kthxbye
+Removed fast charge for USB to save your phone.
