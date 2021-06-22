@@ -1,7 +1,8 @@
-20-05-2021:
+22-06-2021:
 
-1) Initial Official Build.
-2) K2-141b Kernel Prebuilt (Thanks to @karthik558).
-3) User build.
-4) Based on PE trees (Thanks to @dasshubham762).
-5) GCam Go Prebuilt.
+1) Added Mi Sound Enhancer and Clear speaker to Sounds.
+2) Kernel Upstream (Its Cygnus-X1 kernel now Thanks to @karthik558).
+3) Fix Call Recorder issues.
+4) User build.
+5) Based on PE trees (Thanks to @dasshubham762).
+6) GCam Go Prebuilt.
