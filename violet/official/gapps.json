@@ -2,11 +2,11 @@
  	"response": [
 		 {
 								"date":"2021-06-22 ",
-								"datetime":"1624377097",
+								"datetime":"1624379334",
 								"filename":"LegionOS-v3.10-violet-20210622-OFFICIAL-GAPPS.zip",
 								"url":"https://sourceforge.net/projects/legionrom/files/violet/LegionOS-v3.10-violet-20210622-OFFICIAL-GAPPS.zip/download",
-								"id":"27ba6ec84fa88d5c7bdcd5145e83a795adc56b5a50df0a26a55ed29ca375f2d0",
-								"size":"1364085726",
+								"id":"1f69da77a45e062df90552cef9e7bdc6ffabc56afed3c2ee79694221ad26149d",
+								"size":"1364067755",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
