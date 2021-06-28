@@ -2,9 +2,10 @@ LeEco Le Max2 device GAPPS build
 Gapps build including basic R-11 Gapps
 
 # 28-06-2021 - v.3.10
-1)  Fixed screencast (keep screen on while castring to tv)
+1)  Fixed screencast (keep screen on while casting to tv)
 2)  More Greek translations
-3)  Updated media audio codecs ( THX ThE_MArD)
+3)  Updated media and audio codecs ( THX ThE_MArD)
+4)  Misc system improvements
 
 # 18-06-2021 - v.3.10
 1)  Enforcing user build
