@@ -10,6 +10,7 @@
 - Added bass booster preset in Mi Sound Enhacer.
 - Implemented dynamic refresh rate (improves battery life).
 - Some performance tweaks.
+- Some performance tweaks.
 
 LegionOS 3.10 changelog:
 *  Added New Default Wallpaper
