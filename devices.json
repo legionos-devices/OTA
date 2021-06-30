@@ -28,7 +28,7 @@
 	    "telegram_link": "https://t.me/masemoel",
     	"active": true,
     	"supported_versions": [ "11" ],
-        "supported_types": [ "gapps" ],
+        "supported_types": [ "gapps", "vanilla" ],
     	"donation_link": "https://paypal.me/masemoel"
     },
     {

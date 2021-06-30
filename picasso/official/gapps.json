@@ -2,11 +2,11 @@
  	"response": [
 		 {
 								"date":"2021-06-30 ",
-								"datetime":"1625050413",
+								"datetime":"1625053348",
 								"filename":"LegionOS-v3.10-picasso-20210630-OFFICIAL-GAPPS.zip",
 								"url":"https://sourceforge.net/projects/legionrom/files/picasso/LegionOS-v3.10-picasso-20210630-OFFICIAL-GAPPS.zip/download",
-								"id":"ed9d1d0af60b4565acc61d955352fe98d84614671c9cbce1b26c1d8de01ca77c",
-								"size":"1089203896",
+								"id":"b7df37cd5b6e51f3e58d74c138145b164dde7a4ac6939b81af3f2208d91212f4",
+								"size":"1095906244",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
