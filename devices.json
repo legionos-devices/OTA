@@ -96,6 +96,22 @@
         "donation_link": "https://tinyurl.com/donatetopintos"	
     },
     {
+        "brand": "Motorola",
+        "name": "Moto G 7 Plus",
+        "codename": "lake",    
+        "maintainer_name": "VitorSSSouza",
+        "maintainer_xda": "https://forum.xda-developers.com/m/vtrmanfredini.10702109/",
+        "maintainer_country": "BR",
+        "xda_thread": "https://forum.xda-developers.com/t/legionos-android-11-aosp-for-lake.4303193/",
+        "photo": "https://avatars.githubusercontent.com/u/78888873?v=4",
+	    "github_link": "https://github.com/VitorSSSouza",
+	    "telegram_link": "https://t.me/VitorSSSouza",
+        "active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "vanilla","gapps" ],
+        "donation_link": ""	
+    },
+    {
         "brand": "Realme",
         "name": "Realme XT",
         "codename": "RMX1921",    
