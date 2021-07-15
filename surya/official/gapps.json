@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-05-25 ",
-								"datetime":"1621952367",
-								"filename":"LegionOS-v3.9-surya-20210525-OFFICIAL-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/surya/LegionOS-v3.9-surya-20210525-OFFICIAL-GAPPS.zip/download",
-								"id":"2b7210aa5b929cad07f473a3110d0cd884269ac3a59a13510dc3f1a114179d71",
-								"size":"1383193561",
+								"date":"2021-07-15 ",
+								"datetime":"1626366155",
+								"filename":"LegionOS-v3.11-surya-20210715-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/surya/LegionOS-v3.11-surya-20210715-OFFICIAL-GAPPS.zip/download",
+								"id":"36281b3f5ad42ff62b27b98b50ff7ac41a14a24a89f09afa5114b0b1043ff670",
+								"size":"1476128215",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
