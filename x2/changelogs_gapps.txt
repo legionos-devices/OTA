@@ -1,6 +1,11 @@
 LeEco Le Max2 device GAPPS build
 Gapps build including basic R-11 Gapps
 
+# 15-07-2021 - v.3.11
+1)  July patches
+2)  More Greek translations
+3)  Fixed more denials
+
 # 10-07-2021 - v.3.10
 1)  July patches
 2)  More Greek translations
