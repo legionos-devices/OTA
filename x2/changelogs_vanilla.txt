@@ -1,10 +1,10 @@
 LeEco Le Max2 device Vanilla build
 NOTICE: For GAPPS LegionGapps R-11 recomended
 
-# 10-07-2021 - v.3.10
+# 15-07-2021 - v.3.11
 1)  July patches
 2)  More Greek translations
-3)  Misc system improvements
+3)  Fixed more denials
 
 # 28-06-2021 - v.3.10
 1)  Fixed screencast (keep screen on while casting to tv)
