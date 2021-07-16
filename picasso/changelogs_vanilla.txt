@@ -1,32 +1,34 @@
-# 30-06-2021
+# 16-07-2021
 
-- Update prebuilt kernel and blobs to MIUI EU 21.6.23.
-- Source updated to LegionOS 3.10 source.
-- Fixed OK Google issues.
-- Enabled more audio features (see under developer options).
-- SafetyNet now passes even without MagiskHide.
-- Added FPS overlay info.
-- Fixed screen lag during screen recording.
-- Added bass booster preset in Mi Sound Enhacer.
-- Implemented dynamic refresh rate (improves battery life).
-- Some performance tweaks.
-- Some performance tweaks.
+- Update prebuilt kernel and blobs to MIUI EU 21.7.14.
+- Source updated to LegionOS 3.11 source.
+- Fixed Wi-Fi display not working.
+- Fixed some GPS issues.
+- Fixed low signal with dual-SIMs.
 
-LegionOS 3.10 changelog:
+LegionOS 3.11 changelog:
 *  Added New Default Wallpaper
-*  Update to June security patch
-*  New Legion Settings UI Headers
-*  Spoofed More apps to use Pixel FP
-*  Moved to usb hal 1.1 source wide
-*  Added Gesture Navigation related customization (Extended/Long swipe ...Dead zone...Gesture bar radius/size...Sensitivity ...etc etc)
-*  Ship Gcam GO by default for all device (Except that if developer ovverides)
-*  Dynamic Changelog (See changelog before updating device)
+*  Update to July security patch
+*  Fixed Legion Settings ui conflicting with notification shade
+*  Spoof Pixel Props only when booting to system (When on system)
+*  Removed Camera2 / Gallery2 and some other unused app from source (Reduces sync time and space)
+*  Some art optimization (Based on AndroidGo)
+*  Update system fonts
+*  Imporvements in system blur
 *  Fix Legion Settings crashes
-*  Use a new Package installer (From dotOS) [New ui]
-*  Added Bluetooth SBC HD codec as default for all devices
-*  Fixed some Bluetooth A2dp and QTI bt stuffs
-*  Updated AOSP Bluetooth and oss bluetooth
-*  Added Edge lighting (Ambient customization)
-*  Our notifications now show colourd/app icons
+*  Some surfaceflinger optimizations
+*  Added support for sdm888 chip and kryo 585
+*  Added support for legacy devices to use WFD
+*  Fixed some cameraservice errors
+*  Added New default volume panel
+*  Added P404 SSOS OOS and other volume panels
+*  Added Added per app volume
+*  Removed un-necessary spaces from legion settings
+*  Changed Default clock and font (also size)
+*  Rework the whole frameworks/base of the rom
+*  Pip improvements
+*  Some changes to scrolling effect and experience
+*  Fixed themes reset issues on reboot
+*  Misc changes ...check our Github for more ... @Project-LegionOS
 
-Clean flash is recommended! Enjoy this new official build for picasso :)
+Dirty flash may be fine! Enjoy this new official build for picasso :)
