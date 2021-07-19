@@ -189,5 +189,21 @@
     	"supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
     	"donation_link": ""
+    },
+    {
+        "brand": "Xiaomi",
+        "name": "POCO X3 Pro",
+        "codename": "vayu",
+        "maintainer_name": "Christian de la Cruz",
+        "maintainer_xda": "https://forum.xda-developers.com/m/chrisdlc119.5175990/",
+        "maintainer_country": "MX",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-vayu-bhima-legionos-aosp-official.4301907/",
+        "photo": "https://avatars.githubusercontent.com/u/17386344?v=4",
+	    "github_link": "https://github.com/chdelacr",
+	    "telegram_link": "https://t.me/chdelacr",
+        "active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "gapps" ],
+        "donation_link": "https://paypal.me/ChrisdelaC"
     }
 ]
