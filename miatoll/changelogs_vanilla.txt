@@ -1,3 +1,11 @@
+Miatoll Changelog LegionOS 3.11 Vanilla
+
+* Audio: Switch to partially prebuilt audio hal
+* Kernel upstreed to latest
+* Updated blobs
+* Addressed sepolocies
+* Treeside improvements
+
 Miatoll Changelog LegionOS 3.9 Vanilla
 
 * Upstreamed Etharious kernel 4.14.234
