@@ -156,7 +156,7 @@
 	    "telegram_link": "https://t.me/TheMarc43",
         "active": true,
         "supported_versions": [ "11" ],
-        "supported_types": [ "vanilla" ],
+        "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/TheMarc43"	
     },
     {
@@ -171,7 +171,7 @@
 	"telegram_link": "https://t.me/dimasyudha",
         "active": true,
         "supported_versions": [ "11" ],
-        "supported_types": [ "vanilla" ],
+        "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/yudhadimas"	
     },
     {
@@ -203,7 +203,7 @@
 	    "telegram_link": "https://t.me/chdelacr",
         "active": true,
         "supported_versions": [ "11" ],
-        "supported_types": [ "gapps" ],
+        "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/ChrisdelaC"
     }
 ]
