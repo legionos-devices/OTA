@@ -205,5 +205,21 @@
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/ChrisdelaC"
+    },
+    {
+        "brand": "Xiaomi",
+        "name": "Redmi Note 8",
+        "codename": "ginkgo",
+        "maintainer_name": "Anupam Samanta",
+        "maintainer_xda": "https://forum.xda-developers.com/m/anupam9933.8714996/",
+    	"maintainer_country": "IND",
+    	"xda_thread": "https://forum.xda-developers.com/t/rom-11-legion-os-for-redmi-note-8-8t-unified-official.4281873/",
+        "photo": "https://avatars.githubusercontent.com/u/61414264?v=4",
+	    "github_link": "https://github.com/anupam41",
+	    "telegram_link": "https://t.me/anupam41",
+        "active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "gapps", "vanilla" ],
+    	"donation_link": ""
     }
 ]
