@@ -169,7 +169,7 @@
         "xda_thread": "https://forum.xda-developers.com/t/rom-official-10-0-sirius-legion-v2-9-2020-06-27.4122547",
 	"github_link": "https://github.com/dimasyudhaofficial",
 	"telegram_link": "https://t.me/dimasyudha",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/yudhadimas"	
