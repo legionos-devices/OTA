@@ -1,0 +1,13 @@
+# 22-07-2021
+
+- Initial Official build
+- Updated stock blobs from MIUI 21.7.5
+- Updated CAF blobs from LA.UM.9.11.r1-03900-NICOBAR.0
+- Kernel upstreamed to 4.14.239
+- Fixed tiktok, QQ and other apps crash due to vulkan
+- Added LED indicator for offline charging
+- Reduce schedtune boosting for lesser heat
+- Freed some RAM from useless virtual framebuffer
+- Switched to QTI health implementation
+- Add pixel offline charging animation
+- Updated few chromatix blobs from Ginkgo MIUI 10
