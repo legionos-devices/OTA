@@ -106,7 +106,7 @@
         "photo": "https://avatars.githubusercontent.com/u/78888873?v=4",
 	    "github_link": "https://github.com/VitorSSSouza",
 	    "telegram_link": "https://t.me/VitorSSSouza",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "vanilla","gapps" ],
         "donation_link": ""	
