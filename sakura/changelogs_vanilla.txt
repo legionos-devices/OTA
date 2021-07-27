@@ -1,3 +1,21 @@
+# 28-07-2021
+
+• sakura: Disable debug.sf.latch_unsignaled 
+• sakura: Add vendor prefix to qcamerasvr
+• sakura: prop: Shorten wait time for services exit to optimize shutdown time
+• sakura: rootdir: remove starting servicemanagers
+• sakura: rootdir: wait for hwservicemanager ready before running fsck
+• sakura: rootdir: skip wait for hwservicemanager Wait for hwservicemanager is no longer needed
+• sakura: Make sure graphics HAL services started before mounting /data
+• sakura: Start bootanim before mounting data partition
+• sakura: turn off automatic brightness by default
+• sakura: Add RetroMusicPlayer
+• sakura: Set VENDOR_SECURITY_PATCH to platform 11
+• sakura: Remove empty sepolicy version from manifest
+• sakura: Workaround broken softAP with dynamic interface creation
+• sakura: overlay: we dont have RGB battery led
+• sakura: Update build fingerprint/desc from redfin [JULY]
+
 # 26-06-2021
 
 • Switch to half res bootanimation
