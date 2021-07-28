@@ -9,7 +9,6 @@
 • sakura: Make sure graphics HAL services started before mounting /data
 • sakura: Start bootanim before mounting data partition
 • sakura: turn off automatic brightness by default
-• sakura: Add RetroMusicPlayer
 • sakura: Set VENDOR_SECURITY_PATCH to platform 11
 • sakura: Remove empty sepolicy version from manifest
 • sakura: Workaround broken softAP with dynamic interface creation
