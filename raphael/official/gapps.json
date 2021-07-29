@@ -2,11 +2,11 @@
  	"response": [
 		 {
 								"date":"2021-07-29 ",
-								"datetime":"1627561678",
+								"datetime":"1627582592",
 								"filename":"LegionOS-v3.11-raphael-20210729-OFFICIAL-GAPPS.zip",
 								"url":"https://sourceforge.net/projects/legionrom/files/raphael/LegionOS-v3.11-raphael-20210729-OFFICIAL-GAPPS.zip/download",
-								"id":"d8aef04a026d0f17c35c2929b5d5db65df490c11389ff5367a3cde16fac2db75",
-								"size":"1504002683",
+								"id":"7730a3cff0960c57ddb4c9cf2a20dd06e1cd35ca6142565fd51ece84adeea994",
+								"size":"1504018758",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
