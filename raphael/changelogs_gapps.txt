@@ -1,3 +1,6 @@
+# LegionOS 3.11 Changelog
+1)Switched to OSS
+
 # LegionOS 3.10 Changelog
 1) Update to Redfin June 2021 fingerprint
 2) Add support for Battery Health 
