@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-07-15 ",
-								"datetime":"1626350456",
-								"filename":"LegionOS-v3.11-x2-20210715-OFFICIAL-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/x2/LegionOS-v3.11-x2-20210715-OFFICIAL-GAPPS.zip/download",
-								"id":"7f80d8b48b6a79567db166ced2d400aece61c4588466cbf67b1d07d954e7e150",
-								"size":"1224695099",
+								"date":"2021-08-11 ",
+								"datetime":"1628677158",
+								"filename":"LegionOS-v3.12-x2-20210811-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/x2/LegionOS-v3.12-x2-20210811-OFFICIAL-GAPPS.zip/download",
+								"id":"b78dcf9b79aea253d00aa58498e3274508e65c1fa6a8c72872a0943eaa79237e",
+								"size":"1211231052",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}

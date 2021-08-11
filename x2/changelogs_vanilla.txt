@@ -1,6 +1,20 @@
 LeEco Le Max2 device Vanilla build
 NOTICE: For GAPPS LegionGapps R-11 recomended
 
+# 11-08-2021 - v.3.12
+1)  August patches
+2)  Removed unsued configs
+3)  Removed deprecated props
+4)  Updated media codecs and configs
+5)  Updated carrier configs
+6)  Updated fs configs
+7)  Updated sec configs
+8)  Updated org.codeaurora.ims configs
+9)  Updated tethering configs for more stability
+10) Removed some duplicate wifi overlays
+10) Added newe icons and translations inside leeco advanced settings
+11) More Greek translations
+
 # 15-07-2021 - v.3.11
 1)  July patches
 2)  More Greek translations
