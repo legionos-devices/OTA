@@ -12,8 +12,9 @@ NOTICE: For GAPPS LegionGapps R-11 recomended
 8)  Updated org.codeaurora.ims configs
 9)  Updated tethering configs for more stability
 10) Removed some duplicate wifi overlays
-10) Added newe icons and translations inside leeco advanced settings
-11) More Greek translations
+10) Added new icons and translations inside leeco advanced settings
+11) Fixed animation scales
+12) More Greek translations
 
 # 15-07-2021 - v.3.11
 1)  July patches
