@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-07-17 ",
-								"datetime":"1626527134",
-								"filename":"LegionOS-v3.11-sanders-20210717-OFFICIAL-VANILLA.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/sanders/LegionOS-v3.11-sanders-20210717-OFFICIAL-VANILLA.zip/download",
-								"id":"2e714acce06bc2d154f7a92c8ba4acdeea9d31d7c146cd1b6685a0a34314f13c",
-								"size":"948008904",
+								"date":"2021-08-12 ",
+								"datetime":"1628808462",
+								"filename":"LegionOS-v3.12-sanders-20210812-OFFICIAL-VANILLA.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/sanders/LegionOS-v3.12-sanders-20210812-OFFICIAL-VANILLA.zip/download",
+								"id":"1580122c97bdcd8ecb8b2aab1572181ad2ca91d7d9b88e377ffdd5899ccfb767",
+								"size":"952305213",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
