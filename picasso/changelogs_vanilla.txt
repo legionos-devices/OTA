@@ -1,34 +1,45 @@
-# 16-07-2021
+# 14-08-2021
 
-- Update prebuilt kernel and blobs to MIUI EU 21.7.14.
-- Source updated to LegionOS 3.11 source.
-- Fixed Wi-Fi display not working.
-- Fixed some GPS issues.
-- Fixed low signal with dual-SIMs.
+- Source updated to LegionOS 3.12 source.
+- Kernel updated to EU 21.8.4 one.
+- Improved performance.
+- Fixed laggy media in Google Photos.
+- Decreased drain on idle.
+- Added more BT and RIL configs.
+- Added dynamic refresh rate options.
+- Improved HDR rendering performance on GCams.
+- Added NFC Mifare classic support.
 
-LegionOS 3.11 changelog:
+LegionOS 3.12 changelog:
 *  Added New Default Wallpaper
-*  Update to July security patch
-*  Fixed Legion Settings ui conflicting with notification shade
-*  Spoof Pixel Props only when booting to system (When on system)
-*  Removed Camera2 / Gallery2 and some other unused app from source (Reduces sync time and space)
-*  Some art optimization (Based on AndroidGo)
-*  Update system fonts
-*  Imporvements in system blur
-*  Fix Legion Settings crashes
-*  Some surfaceflinger optimizations
-*  Added support for sdm888 chip and kryo 585
-*  Added support for legacy devices to use WFD
-*  Fixed some cameraservice errors
-*  Added New default volume panel
-*  Added P404 SSOS OOS and other volume panels
-*  Added Added per app volume
-*  Removed un-necessary spaces from legion settings
-*  Changed Default clock and font (also size)
-*  Rework the whole frameworks/base of the rom
-*  Pip improvements
-*  Some changes to scrolling effect and experience
-*  Fixed themes reset issues on reboot
+*  Update to August security patch
+*  Fixed some colours on messagin apps (VANILLA)
+*  Allow selecting text in messages app (VANILLA)
+*  Removed some un-used from message app (VANILLA)
+*  Added missing alarm volume slider to Shapeshift and miui compact volume panel
+*  Update prebuilt apk's'
+*  Introduce Android 12 Brightness slider
+*  Rework switch styles
+*  Rework signal icons a bit
+*  Checkout themes from Arrow OS (No more theme reset probably - report if any)
+*  Fix clock icon in kai icon pack
+*  Some mix fixes for volume panels
+*  Added auto Wi-Fi timeout
+*  Added auto Bluetooth timeout
+*  Misc fixes for app lock
+*  Reworked theming and colours and gradient
+*  Added Android 12 based theming system from dot os (Monet wannabe)
+*  Allow to ship prebuilt apk in dt
+*  Added background alpha blur
+*  Added Notification transparency
+*  Added Accent picker 3.0  (New impl)
+*  Added Android 12 qs tile style
+*  Added qs tiles disco colours
+*  Added data disable icon
+*  Added Wi-Fi and mobile data signal icon styles
+*  Added new Dark theme Layout
+*  Fixed Touch/drag to add qs icon
+*  Added data switch tile with a new impl
 *  Misc changes ...check our Github for more ... @Project-LegionOS
 
-Dirty flash may be fine! Enjoy this new official build for picasso :)
+Clean flash is mandatory! Enjoy this new official build for picasso :)
