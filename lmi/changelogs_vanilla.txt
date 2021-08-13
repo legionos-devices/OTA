@@ -1,5 +1,17 @@
 Device: Poco F2 Pro (lmi)
-Device maintainer: AbdullahPS
+Device maintainer: ZenkaBestia
+
+# 12-08-2021 - v.3.12
+1)  Remove QTI BT A2DP routes 
+2)  Update audio_io_policy for VoIP
+3)  Fix mic issues in apps like WhatsApp
+4)  Re-introduce Speaker Safe audio routing
+5)  Add hotword input for hotword mic concurrency
+6)  Set up display color compositions
+7)  Support Alipay and WeChat fingerprint payment
+8)  Ship full package of vendor.qti.hardware.dsp@1.0
+9)  Copy appropriate Vulkan deQP test certification
+
 
 ==== 2021-03-27 ====
 

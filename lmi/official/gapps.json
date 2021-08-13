@@ -1,6 +1,14 @@
-{ "response": [ { "datetime": "1616871918","filename":" LegionOS-v3.7-lmi-20210327-OFFICIAL-GAPPS.zip
-LegionOS-v3.7-lmi-20210327-OFFICIAL-VANILLA.zip","id":"391266bec3f226d76945ffcc376d1918ab604ddfc9f9ff4326bc1b01a36b306d
-7f403d0e59df4db03cbc655ea0bfef03cdc15b41b21018fa0f472bc01bc1e543","romtype": "OFFICIAL", "size":"982043222
-748736291
-1730779513", "url":"https://sourceforge.net/projects/legionrom/files/lmi/LegionOS-v3.7-lmi-20210327-OFFICIAL-GAPPS.zip
-LegionOS-v3.7-lmi-20210327-OFFICIAL-VANILLA.zip/download", "version": "v11.0","device_brand": "Poco","device_model": "F2Pro","device_codename": "lmi","developer": "AbdullahPS"} ] }
+{
+ 	"response": [
+		 {
+								"date":"2021-08-13 ",
+								"datetime":"1628847343",
+								"filename":"LegionOS-v3.12-lmi-20210813-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/lmi/LegionOS-v3.12-lmi-20210813-OFFICIAL-GAPPS.zip/download",
+								"id":"bd5f78b91d099dc767fac922700d418a0518fd1ae81aea3667a91c04a840137c",
+								"size":"1626624373",
+								"romtype":"OFFICIAL",
+								"version":"11.0"
+		}
+	]
+}
