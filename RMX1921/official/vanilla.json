@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-05-19 ",
-								"datetime":"1621446104",
-								"filename":"LegionOS-v3.9-RMX1921-20210519-OFFICIAL-VANILLA.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/RMX1921/LegionOS-v3.9-RMX1921-20210519-OFFICIAL-VANILLA.zip/download",
-								"id":"f12abd1593c35e5f9f7fb284bca2c2ed0129456cffef690d2bbe3bdaa4873b5b",
-								"size":"1130130034",
+								"date":"2021-08-13 ",
+								"datetime":"1628807301",
+								"filename":"LegionOS-v3.12-RMX1921-20210813-OFFICIAL-VANILLA.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/RMX1921/LegionOS-v3.12-RMX1921-20210813-OFFICIAL-VANILLA.zip/download",
+								"id":"064886d069abb1f65ceec483c776f69337571ea60f3fd94711f26e950af3707e",
+								"size":"1236905721",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}

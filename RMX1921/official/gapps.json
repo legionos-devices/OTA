@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-05-19 ",
-								"datetime":"1621444622",
-								"filename":" LegionOS-v3.9-RMX1921-20210519-OFFICIAL-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/RMX1921/LegionOS-v3.9-RMX1921-20210519-OFFICIAL-GAPPS.zip/download",
-								"id":"f1cc550ee5bf9f942ccb538324a3850014d8695fef12192c9f989e1d88acb02e",
-								"size":"1377580710",
+								"date":"2021-08-12 ",
+								"datetime":"1628774273",
+								"filename":"LegionOS-v3.12-RMX1921-20210812-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/RMX1921/LegionOS-v3.12-RMX1921-20210812-OFFICIAL-GAPPS.zip/download",
+								"id":"39b948650724295d4bf61629c12209604c89cd82a94ba92846b4cd048e2cc7ab",
+								"size":"1236887786",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
