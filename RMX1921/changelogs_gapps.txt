@@ -1,3 +1,11 @@
+# 12-08-2021
+- Improved proximity(fully fixed)
+- Improved brightness(changed to aidl impl and fixed up)
+- Kernel upstreamed to 4.9.279
+- Switched to qti bt stack
+- Lots of fixes and code cleanup in init
+- Kernel improvements (too much to write)
+
 # 19-05-2021
 - Added auto-HBM mode
 - Cleaned up vendor
