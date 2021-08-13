@@ -1,6 +1,22 @@
 [
     {
         "brand": "Xiaomi",
+        "name": "POCO F2 Pro",
+        "codename": "lmi",    
+        "maintainer_name": "ZenkaBestia",
+        "maintainer_xda": "https://forum.xda-developers.com/m/zenkabestia.5462694/",
+    	"maintainer_country": "IDN",
+    	"xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-lmi-legionos-2021-07-26.4310959/",
+        "photo": "https://avatars.githubusercontent.com/u/54382817?v=4",
+    	"github_link": "https://github.com/ZenkaBestia",
+	    "telegram_link": "https://t.me/ZenkaBestia",
+    	"active": true,
+    	"supported_versions": [ "11" ],
+        "supported_types": [ "gapps", "vanilla" ],
+    	"donation_link": "https://www.paypal.me/ZenkaBestia"
+    },
+    {
+        "brand": "Xiaomi",
         "name": "Redmi Note 9 PRO",
         "codename": "miatoll",    
         "maintainer_name": "RajKale",
