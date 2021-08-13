@@ -1,7 +1,7 @@
 # 14-08-2021
 
 - Source updated to LegionOS 3.12 source.
-- Kernel updated to EU 21.8.4 one.
+- Kernel updated to EU 21.8.11 one.
 - Improved performance.
 - Fixed laggy media in Google Photos.
 - Decreased drain on idle.
