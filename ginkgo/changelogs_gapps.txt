@@ -1,3 +1,16 @@
+# 14-08-2021
+
+- Updated MIUI blobs from MIUI V12.0.1.0RCOMIXM
+- Updated blobs, GPS HAL and kernel to LA.UM.9.11.r1-04500-NICOBAR.0
+- Upstreamed kernel to v4.14.243
+- Boost GPU to max for blur and disable blur by default
+- Increased voice call volume steps to 6
+- Silenced logspam from wakeup selinux denials
+- Updated clear speaker audio from Miui12
+- Undervolt GPU to reduce heat and power draw
+
+Note :- OTA Pushed....Clea flash always recomended
+
 # 22-07-2021
 
 - Initial Official build
