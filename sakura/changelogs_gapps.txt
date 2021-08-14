@@ -1,3 +1,18 @@
+# 15-08-2021
+
+• sakura: Update build fingerprint/desc from redfin [AUGUST]
+• sakura: Add battery LED overlays 
+• sakura: rootdir: Set thermal profile on boot
+• sakura: Add required GPU props 
+• sakura: Fix bad processing of the chown system command
+• sakura: overlay: Decommonize HW Keys overlay
+• sakura: overlay: Disable Bluetooth by default
+• sakura: Nuked RetroMusicPlayer
+• sakura: Revert "turn off automatic brightness by default"
+• sakura: oerlay: Make the UI smoother
+• sakura: Blocked OTA for this time, coz clean flash necessary
+• misc
+
 # 28-07-2021
 
 • sakura: Disable debug.sf.latch_unsignaled 
