@@ -237,5 +237,21 @@
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
     	"donation_link": ""
+    },
+    {
+        "brand": "Xiaomi",
+        "name": "Mi A1",
+        "codename": "tissot",
+        "maintainer_name": "Answer35",
+        "maintainer_xda": "https://forum.xda-developers.com/m/answer35.4654320/",
+    	"maintainer_country": "FRA",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-unofficial-legionos-13-08-2021.4298361/",
+        "photo": "https://avatars.githubusercontent.com/u/26594746?v=4",
+	    "github_link": "https://github.com/answer35",
+	    "telegram_link": "https://t.me/answer35",
+        "active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "gapps", "vanilla" ],
+    	"donation_link": ""
     }
 ]
