@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-07-27 ",
-								"datetime":"1627370034",
-								"filename":"LegionOS-v3.11-sakura-20210727-OFFICIAL-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/sakura/LegionOS-v3.11-sakura-20210727-OFFICIAL-GAPPS.zip/download",
-								"id":"169fd2c5ab9361068391fc068463bb720f92d0a1ab36577617ce906ed925eabd",
-								"size":"1312425599",
+								"date":"2021-08-14 ",
+								"datetime":"1628936760",
+								"filename":"LegionOS-v3.12-sakura-20210814-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/sakura/LegionOS-v3.12-sakura-20210814-OFFICIAL-GAPPS.zip/download",
+								"id":"1187b9741adede8c3b31f5a2fb69c25e25870a5008855070d961ca89e1c94d69",
+								"size":"1312463728",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
