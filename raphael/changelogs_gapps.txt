@@ -1,3 +1,14 @@
+# LegionOS 3.12 Changelog
+1)Import HotwordEnrollment blobs from V12.5.1.0.RFKMIXM
+2)Import HotwordEnrollement permissions XML
+3)Update and pin liboemcrypto from V12.5.1.0.RFKMIXM
+4)Declare HDR/Wide Color support for display
+5)Soviet Kernel Latest Upstream
+6)Added Back High Brightness Mode
+7)update graphics blobs from LA.UM.9.1.r1-10200-SMxxx0.0
+8)parts: Add switchbar to disable dynamic thermal
+9)new miui offline charging daemon from cmi R
+
 # LegionOS 3.11 Changelog
 1)Switched to OSS
 
