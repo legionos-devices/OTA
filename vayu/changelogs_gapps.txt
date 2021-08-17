@@ -1,0 +1,4 @@
+Changelog - 16/08/2021
+- Initial OSS build
+
+NOTE: Clean flash mandatory
