@@ -1,0 +1,10 @@
+# 08-21-2021
+-Initial GAPPS build
+-Fixed Smart Charging
+-Fixed FOD Icon on KG padding
+-Disabled DC Dimming for now
+-Removed ANXCamera for now
+-Overlays cleanup
+-Switched to Arian's kernel
+-Optimized CPU set
+-Tweaked LMK
