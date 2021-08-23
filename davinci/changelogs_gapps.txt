@@ -1,3 +1,16 @@
+# 08-23-2021
+-ANX Camera is the default camera
+-24bit Audio playback support
+-Fast charging threshold was set to 10w instead of 7.5w
+-Removed Simple Gallery Pro (you can install Google Photos or other gallery instead)
+-Removed Via Browser (you can install Google Chrome or Bromite instead)
+-Disabled SIM {1|2} is HD capable notification
+-Added Active screen notification
+-Beautify Device Info on About Phone section
+-Used my own Kernel XD
+Note:
+Kernel was based on Arian's LOS. Added some tweaks and upstreamed to 4.14.244
+
 # 08-21-2021
 -Initial GAPPS build
 -Fixed Smart Charging
