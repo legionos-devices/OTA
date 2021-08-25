@@ -267,7 +267,7 @@
 	    "telegram_link": "https://t.me/kituwa",        
 	"active": true,
         "supported_versions": [ "11" ],
-        "supported_types": [ "gapps", "vanilla" ],
-        "donation_link": ""	
+        "supported_types": [ "", "vanilla" ],
+        "donation_link": "https://www.paypal.com/paypalme/nathankits"	
     }
 ]
