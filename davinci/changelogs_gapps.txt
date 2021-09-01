@@ -1,2 +1,9 @@
 08-31-2021
 first official GAPPS build
+Fixed duplicate charging notification on LS
+Hid FOD icon when strong auth is required
+Merged Active Screen Notification
+Disabled WLAN Firmware loggings
+Enabled QPower and Deep sleep together
+Relax WiFi re-association RSSI thresholds
+wifi: Enable DFS channel scanning in P2P search
