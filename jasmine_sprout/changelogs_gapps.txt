@@ -1,3 +1,50 @@
+# 02-09-2021
+
+[IF YOU FACE GLITCHES IN UI DO CLEAN FLASH ASAP]
+
+1) Disable Apex
+2) Change default dpi to 440
+3) Update media codecs from LA.UM.9.2.1.r1-07900-sdm660.0
+4) Update media profile from LA.UM.9.2.1.r1-07900-sdm660.0
+5) Update audio configs from LA.UM.9.2.1.r1-07900-sdm660.0
+6) Import audio configs from stock
+7) Include bitness of hals used
+8) Clean up overlay
+9) Optimise art and use inactive slot for art
+10) Add hph highquality mode
+11) Update sensor from LA.UM.8.2.1.r1-05600-sdm660
+12) Built qcacld(wlan) as module integrated into the rom
+13) Added dirac (Mi sound FX)
+14) Udpate media blobs from phoenix_sprout
+15) Update DRM blobs from phoenix_sprout
+16) Update Alarm blobs from phoenix_sprout
+17) Update qti-telephony-common.jar and ims apk form nubia
+18) Update gps blobs from LA.UM.9.1.r1-10200-SMxxx0.0
+19) Build audio.primary.sdm660 from source
+20) Update audio blobs from phoenix_sprout
+21) Update dsp blobs from lemon
+22) Update adsp blobs from lemon
+23) Add missing radio props
+24) Give proper permission for /dev/diag
+25) Added kernel space battery saver
+26) Remove old selinux props
+27) Add missing adsp blobs from jasmine v11.26
+28) Remove Un-used audio configs
+29) Fix some network/sim reset issues
+30) Cleanup some old and duplicated xml
+31) Update blobs from curtana V12.0.4.0.RJWMIXM
+32) Add VENDOR_HINT_APP_WORKLOAD_TYPE to adaptlaunch
+33) Bring back device settings
+34) Fix many many more sepolicies
+35) Enable pre rendering feature
+36) Move to aosp health hal implementation
+37) Remove SIM-1/2 HD capable notification
+38) Update gps config LA.UM.9.1.r1-10200-SMxxx0.0
+39) Build new gnss stack
+40) Remove un-necessary gps entry from manifest
+41) Fix crashing dynamic thermal profile
+42) Set default thermal mode to evaluation
+
 # 18-7-2021
 
 1) Fixed Battery drain issues
