@@ -285,5 +285,21 @@
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/itsmarkkey"	
-    }
+    },
+    {
+        "brand": "Xiaomi",
+        "name": "Redmi S2/Y2",
+        "codename": "ysl",
+        "maintainer_name": "AYUSH",
+        "maintainer_xda": "https://forum.xda-developers.com/m/sp56.9967835/",
+    	"maintainer_country": "IND",
+    	"xda_thread": "https://forum.xda-developers.com/t/11-rom-official-project-legion-os_ysl-20210830.4335713/",
+        "photo": "https://avatars.githubusercontent.com/u/47271737?v=4",
+	    "github_link": "https://github.com/MIUI56",
+	    "telegram_link": "https://t.me/AJ0195",
+        "active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "gapps" ],
+    	"donation_link": ""
+    }    
 ]
