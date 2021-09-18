@@ -44,7 +44,7 @@
 	    "telegram_link": "https://t.me/beerdmann",
     	"active": true,
     	"supported_versions": [ "11" ],
-        "supported_types": [ "vanilla" ],
+        "supported_types": [ "vanilla", "gapps" ],
     	"donation_link": "https://ko-fi.com/beerdmann"
     },
     {
