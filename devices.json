@@ -159,6 +159,21 @@
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/thatisjigen"	
     },
+    {  
+        "brand": "Realme",
+        "name": "Realme X3 / SuperZoom",
+        "codename": "RMX2081",    
+        "maintainer_name": "Patriot06",
+        "maintainer_xda": "https://forum.xda-developers.com/m/patriot-06.11800227/",
+        "maintainer_country": "IND",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-rmx2081-legionos-3-13-unified-unofficial-aosp.4335731/",
+	    "github_link": "https://github.com/Patriot-06",
+	    "telegram_link": "https://t.me/patriot_235",        
+	"active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "gapps", "vanilla" ],
+        "donation_link": ""   
+    },
     {
         "brand": "Xiaomi",
         "name": "Redmi 6 Pro",
