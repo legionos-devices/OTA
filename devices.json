@@ -162,7 +162,7 @@
     {  
         "brand": "Realme",
         "name": "Realme X3 / SuperZoom",
-        "codename": "RMX2081",    
+        "codename": "x3",    
         "maintainer_name": "Patriot06",
         "maintainer_xda": "https://forum.xda-developers.com/m/patriot-06.11800227/",
         "maintainer_country": "IND",
@@ -172,7 +172,7 @@
 	"active": true,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
-        "donation_link": ""
+        "donation_link": "https://www.paypal.me/patriot235"
     },
     {
         "brand": "Xiaomi",
