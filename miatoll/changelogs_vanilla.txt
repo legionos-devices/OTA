@@ -1,23 +1,7 @@
-Miatoll Changelog LegionOS 3.11 Vanilla
+Miatoll Changelog LegionOS 3.13 Vanilla
 
-* Audio: Switch to partially prebuilt audio hal
 * Kernel upstreed to latest
 * Updated blobs
+* Added GcamGo
 * Addressed sepolocies
 * Treeside improvements
-
-Miatoll Changelog LegionOS 3.9 Vanilla
-
-* Upstreamed Etharious kernel 4.14.234
-* Updated May Build fp
-* Build with signed for more security
-* Major Improvement for performance and stability
-
-
-Miatoll Changelog LegionOS 3.8 Vanilla
-
-* Updated to Latest Etherious-kernel 4.14.226 tag
-* Updated March Build fp
-* Address more denials
-* Fixed Ok google 
-* Minor Improvements
