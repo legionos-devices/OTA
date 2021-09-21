@@ -1,0 +1,10 @@
+# 21-09-2021
+
+- Added Battery health info
+- Default Camera app relaced with Footej Camera
+- FM Radio can work without wired headset
+- Updated device tree
+- Disabled FP Key code 353 as CAMERA
+- Enabled smart charging
+
+NOTE: Clean install highly recommended!
