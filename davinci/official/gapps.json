@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-08-31 ",
-								"datetime":"1626614390",
-								"filename":"LegionOS-v3.12-davinci-20210831-OFFICIAL-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/davinci/LegionOS-v3.12-davinci-20210831-OFFICIAL-GAPPS.zip/download",
-								"id":"92bfec52f47ca2a8961151b47fffd93c8fdab53e",
-								"size":"1794219669",
+								"date":"2021-09-21 ",
+								"datetime":"1632234068",
+								"filename":"LegionOS-v3.13-davinci-20210921-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/davinci/LegionOS-v3.13-davinci-20210921-OFFICIAL-GAPPS.zip/download",
+								"id":"16fa422fa960ec63c2cce0b70eee92a5834f4ab13429babfcceaa0a4be793031",
+								"size":"1811187835",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
