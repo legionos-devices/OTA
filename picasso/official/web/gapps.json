@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-09-21 ",
-								"datetime":"1632258202",
-								"filename":"LegionOS-v3.13-picasso-20210921-OFFICIAL-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/picasso/LegionOS-v3.13-picasso-20210921-OFFICIAL-GAPPS.zip/download",
-								"id":"c34b8ee7953e24837b6bab14362d9bff57d5a650e27a760ff97fdb224069d02a",
-								"size":"1246377860",
+								"date":"2021-09-22 ",
+								"datetime":"1632299585",
+								"filename":"LegionOS-v3.13-picasso-20210922-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/picasso/LegionOS-v3.13-picasso-20210922-OFFICIAL-GAPPS.zip/download",
+								"id":"fd909eec481880d315bce83a4d6f209ed6e89193d0703df0d228e3062ca18523",
+								"size":"1246360124",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
