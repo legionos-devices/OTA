@@ -1,6 +1,17 @@
 LeEco Le Max2 device GAPPS build
 Gapps build including basic R-11 Gapps
 
+
+# 22-09-2021 - v.3.13
+1)  September patches
+2)  Removed unused configs
+3)  Removed more deprecated props
+4)  Fixed animation scales for x2
+5)  Updated wfd configs with latest LOS 18.1
+6)  Removed deprecated wfd blobs
+  Source Bugs-Notice
+  Dark mode issue plus HW button actions..maybe more..
+
 # 11-08-2021 - v.3.12
 1)  August patches
 2)  Removed unsued configs
