@@ -1,3 +1,25 @@
+09-21-2021
+Merged September security patch
+Enabled battery percentage on status bar by default
+Updated Greek translations & Remove gap in front of the string lines
+Adapted Accents(Monet) from Project Radiant
+Updated fw blobs from MIUI V12.5.1.0.RFJCNXM
+Switched to MIUI offline charging daemon
+Reverted back to stock davinci FOD size
+Added seekbar for statusbar L/R padding
+Added automated sleepmode
+Added reticker
+overlay: declare wide color gamut support
+overtlay: enabled status bar burnin protection
+Updated camera icon and additional fixes
+Fixed screencast
+Added toggle to switch between text/oos style clear all notification
+Added dc dimming/kcal adjustment option both on ROM and kernel
+Kernel upstream from 244 to 246
+Other rom and kernel optimizations
+
+Note: Scheduled dark mode is currenly buggy, don't schedule dark mode for now
+
 08-31-2021
 first official vanilla build
 Fixed duplicate charging notification on LS
