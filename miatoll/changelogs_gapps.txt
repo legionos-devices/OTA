@@ -1,7 +1,7 @@
-Miatoll Changelog LegionOS 3.11 Vanilla
+Miatoll Changelog LegionOS 3.13 Gapps
 
-* Audio: Switch to partially prebuilt audio hal
 * Kernel upstreed to latest
 * Updated blobs
+* Added GcamGo
 * Addressed sepolocies
 * Treeside improvements

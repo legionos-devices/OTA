@@ -159,6 +159,21 @@
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/thatisjigen"	
     },
+    {  
+        "brand": "Realme",
+        "name": "Realme X3 / SuperZoom",
+        "codename": "x3",    
+        "maintainer_name": "Patriot06",
+        "maintainer_xda": "https://forum.xda-developers.com/m/patriot-06.11800227/",
+        "maintainer_country": "IND",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-rmx2081-legionos-3-13-unified-unofficial-aosp.4335731/",
+	    "github_link": "https://github.com/Patriot-06",
+	    "telegram_link": "https://t.me/patriot_235",        
+	"active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "gapps" ],
+        "donation_link": "https://www.paypal.me/patriot235"
+    },
     {
         "brand": "Xiaomi",
         "name": "Redmi 6 Pro",
@@ -274,13 +289,13 @@
         "brand": "Xiaomi",
         "name": "POCO M3 / Redmi 9T",
         "codename": "juice",    
-        "maintainer_name": "Nathaniel_Quitua",
+        "maintainer_name": "Nathaniel Quitua",
         "maintainer_xda": "https://forum.xda-developers.com/m/nathanielquitua.9283268/",
-        "maintainer_country": "PHL",
+        "maintainer_country": "PH",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-juice-redmi-9t-poco-m3-redmi-9-power-redmi-note-9-4g-official-legionos.4323551/",
         "photo": "https://avatars.githubusercontent.com/u/63705885?v=4",
 	    "github_link": "https://github.com/TyraLizQ10",
-	    "telegram_link": "https://t.me/kituwa",        
+	    "telegram_link": "https://t.me/nathankits10",        
 	"active": true,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
@@ -301,5 +316,21 @@
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/itsmarkkey"	
-    }
+    },
+    {
+        "brand": "Xiaomi",
+        "name": "Redmi S2/Y2",
+        "codename": "ysl",
+        "maintainer_name": "AYUSH",
+        "maintainer_xda": "https://forum.xda-developers.com/m/sp56.9967835/",
+    	"maintainer_country": "IND",
+    	"xda_thread": "https://forum.xda-developers.com/t/11-rom-official-project-legion-os_ysl-20210830.4335713/",
+        "photo": "https://avatars.githubusercontent.com/u/47271737?v=4",
+	    "github_link": "https://github.com/MIUI56",
+	    "telegram_link": "https://t.me/AJ0195",
+        "active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "gapps" ],
+    	"donation_link": ""
+    }    
 ]

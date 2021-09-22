@@ -1,0 +1,10 @@
+# 22-09-2021
+- Build qti power HAL
+- Reduce minimum screen brightness
+- Adjusted zram write back policy
+- Kill off IMS logspam with fir
+- some bug fixes and improvments
+
+# 26-08-2021
+- Initial official build
+- Ship with stormbreaker kernel

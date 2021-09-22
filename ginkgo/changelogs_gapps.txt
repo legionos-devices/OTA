@@ -1,3 +1,21 @@
+# 21-09-2021
+
+- Updated MIUI blobs from MIUI 12.0.2.0.RCOMIXM
+- Boost I/O during bootup to improve boot speed
+- Boost CPU during wake for faster faceunlock
+- Increased default f2fs checkpoint interval
+- Increased hispeed freq for big cluster
+- Disabled conservative PL boost
+- Reverted AOSP's old VM settings tweaks
+- Added hbm and cabc mode in xiaomiparts
+- Upstreamed kernel to v4.14.246
+- Relaxed GPU undervolt a bit
+- Merged LA.UM.9.11.r1-04700-NICOBAR.0 caf tag
+- Added missing qti_whitelist sysconfig
+- Added headphones warning for clear speaker
+
+Note :- OTA Pushed....Clea flash always recomended
+
 # 14-08-2021
 
 - Updated MIUI blobs from MIUI V12.0.1.0RCOMIXM
