@@ -1,7 +1,14 @@
 Device: Poco F2 Pro (lmi)
 Device maintainer: ZenkaBestia
 
-# 12-08-2021 - v.3.12
+# 23-09-2021 - v3.13
+1)  Add COLOR_MODE_SATURATED support from Sunfish
+2)  Fix media codecs copy out directory
+3)  Enable idle timer with kernel support
+4)  FOD improvement
+
+
+==== 12-08-2021 - v.3.12 ====
 1)  Remove QTI BT A2DP routes
 2)  Update audio_io_policy for VoIP
 3)  Fix mic issues in apps like WhatsApp
