@@ -11,6 +11,7 @@ Gapps build including basic R-11 Gapps
 6)  Removed deprecated wfd blobs
   Source Bugs-Notice
   Dark mode issue plus HW button actions..maybe more..
+  Please download manually and flash this time.No OTA provided
 
 # 11-08-2021 - v.3.12
 1)  August patches
