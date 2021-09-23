@@ -25,7 +25,7 @@ URL="https://sourceforge.net/projects/legionrom/files/$DEVICE/$FILENAME/download
 VERSION="11.0"
 ROMTYPE="OFFICIAL"
 JSON_FMT='{\n \t"response": [\n\t\t {\n\t\t\t\t\t\t\t\t"date":"%s ",\n\t\t\t\t\t\t\t\t"datetime":"%s",\n\t\t\t\t\t\t\t\t"filename":"%s",\n\t\t\t\t\t\t\t\t"url":"%s",\n\t\t\t\t\t\t\t\t"id":"%s",\n\t\t\t\t\t\t\t\t"size":"%s",\n\t\t\t\t\t\t\t\t"romtype":"%s",\n\t\t\t\t\t\t\t\t"version":"%s"\n\t\t}\n\t]\n}'
-printf "$JSON_FMT" "$DATE" "$DATETIME" "$FILENAME" "$URL" "$ID" "$SIZE"  "$ROMTYPE" "$VERSION" > OTA/$DEVICE/official/$FLAVOUR.json
+printf "$JSON_FMT" "$DATE" "$DATETIME" "$FILENAME" "$URL" "$ID" "$SIZE"  "$ROMTYPE" "$VERSION" > OTA/$DEVICE/official/web/$FLAVOUR.json
 echo $FLAVOUR.json file created
 
 cd OTA && git add . && git commit -m "$DEVICE: Latest $FLAVOUR update" && git push LegionOS-Devices HEAD:11
