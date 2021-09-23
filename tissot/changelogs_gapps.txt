@@ -1,3 +1,9 @@
+# 23-09-2021
+
+- LegionOS 3.13
+- Rebased on LOS trees
+- Using Kernel from Evolution-X for best battery life & performance
+
 # 15-08-2021
 
 - Initial Official build (LegionOS 3.12)
