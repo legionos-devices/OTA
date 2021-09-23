@@ -17,6 +17,22 @@
     },
     {
         "brand": "Xiaomi",
+        "name": "POCO X2",
+        "codename": "phoenix",    
+        "maintainer_name": "Nasir Ali",
+        "maintainer_xda": "https://forum.xda-developers.com/m/nasirali17.9119909/",
+        "maintainer_country": "IND",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-oss-11-legion-os-official-xiaomi-poco-x2-phoenix.4293925/",
+        "photo": "https://avatars.githubusercontent.com/u/83268060?v=4",
+	    "github_link": "https://github.com/Nasir-buddy",
+	    "telegram_link": "https://t.me/NasirAli17",
+        "active": true,
+        "supported_versions": [ "11" ],
+        "supported_types": [ "gapps", "vanilla" ],
+        "donation_link": ""	
+    },
+    {
+        "brand": "Xiaomi",
         "name": "Redmi Note 9 PRO",
         "codename": "miatoll",    
         "maintainer_name": "RajKale",
