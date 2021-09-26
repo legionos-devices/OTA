@@ -1,3 +1,18 @@
+# 26-09-2021
+
+• sakura: Build with sakura device img
+• sakura: Update build fingerprint/desc from redfin [SEPTEMBER]
+• sakura: Enable width/height swap feature for H.264 codec
+• sakura: wifi: Disable BSS flush
+• sakura: wifi: add parameters for Hotspot 2.0
+• sakura: configs: Update thermal-engine.conf
+• sakura: Show memory usage in app info
+• sakura: add qmi_fw.conf
+• sakura: audio: Remove surround recording support from audio policy config xml
+• sakura: rootdir: Tune cpusets
+• sakura: Enable adaptive sleep
+• sakura: overlay: Set screen off delay to 0
+
 # 15-08-2021
 
 • sakura: Update build fingerprint/desc from redfin [AUGUST]
