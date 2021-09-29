@@ -1,3 +1,12 @@
+# 29-09-2021
+- Kernel upstreamed to 4.9.284
+- Added moto dolby
+- Added vibration control
+- Added performance QS tile control
+- Added clear speaker
+- Removed KLapse
+- Misc audio improvements
+
 # 12-08-2021
 - Improved proximity(fully fixed)
 - Improved brightness(changed to aidl impl and fixed up)
