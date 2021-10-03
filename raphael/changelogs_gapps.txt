@@ -1,3 +1,7 @@
+# LegionOS 3.13 Changelog
+1) Switched to A11 firmware
+2) Switched to snaplight kernel
+
 # LegionOS 3.12 Changelog
 1)Import HotwordEnrollment blobs from V12.5.1.0.RFKMIXM
 2)Import HotwordEnrollement permissions XML
