@@ -1,8 +1,6 @@
 22-06-2021:
 
-1) Added Mi Sound Enhancer and Clear speaker to Sounds.
-2) Kernel Upstream (Its Cygnus-X1 kernel now Thanks to @karthik558).
-3) Fix Call Recorder issues.
-4) User build.
-5) Based on PE trees (Thanks to @dasshubham762).
-6) GCam Go Prebuilt.
+1) Added More presets in Dirac.
+2) Kernel Upstream (Its nigandu now thanks to Subham Das)
+3) Updated Blobs.
+4) Various under the hood changes
