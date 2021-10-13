@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-08-14 ",
-								"datetime":"1628981975",
-								"filename":"LegionOS-v3.12-sakura-20210814-OFFICIAL-VANILLA.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/sakura/LegionOS-v3.12-sakura-20210814-OFFICIAL-VANILLA.zip/download",
-								"id":"c52740ec60f30340eed425534dbb03b25ca6d490b89ea2eff707e1f2cf16e451",
-								"size":"1080294314",
+								"date":"2021-09-25 ",
+								"datetime":"1632547107",
+								"filename":"LegionOS-v3.13-sakura-20210925-OFFICIAL-VANILLA.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/sakura/LegionOS-v3.13-sakura-20210925-OFFICIAL-VANILLA.zip/download",
+								"id":"db020b87d3beee612b7d5ca386b27a565f588293631f6ff12292f13a50a32967",
+								"size":"1088922834",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}

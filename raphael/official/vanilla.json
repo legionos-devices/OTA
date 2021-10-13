@@ -1,14 +1,14 @@
 {
  	"response": [
 		 {
-								"date":"2021-08-14 ",
-								"datetime":"1627643286",
-								"filename":"LegionOS-v3.12-raphael-20210815-OFFICIAL-VANILLA.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/raphael/LegionOS-v3.12-raphael-20210815-OFFICIAL-VANILLA.zip/download",
-								"id":"20fe58e742c4188b356371605ede5131007d787feb96f231e3baee5d5ac1f5d7",
-								"size":"1272455130",
+								"date":"2021-10-03 ",
+								"datetime":"1633241520",
+								"filename":"LegionOS-v3.13-raphael-20211003-OFFICIAL-VANILLA.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/raphael/LegionOS-v3.13-raphael-20211003-OFFICIAL-VANILLA.zip/download",
+								"id":"cc7d8b25e0b3d0e6b77aec90cb49a75b344f93951e17b6b2465195f853d31e28",
+								"size":"1282453869",
 								"romtype":"OFFICIAL",
-								"version":"12.0"
+								"version":"11.0"
 		}
 	]
 }
