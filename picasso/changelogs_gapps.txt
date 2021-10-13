@@ -1,49 +1,27 @@
-# 21-09-2021
+# 13-10-2021
+------------
 
-- Source updated to LegionOS 3.13 source.
-- Kernel and blobs updated to CN stable 12.5.5 release.
+- Source updated to LegionOS 3.14 source.
 - Improved performance.
-- Added prebuilt GCamGo.
+- Fixed PerformanceMode app crashing.
 - Improved dynamic refresh rate configs.
-- Fixed huge battery drain with the pocket mode enabled.
-- Improved Wi-Fi speed.
 
-LegionOS 3.13 changelog:
+LegionOS 3.14 changelog
+-----------------------
 ADDITIONS:
-- Merged r43 September security patch.
-- Added new statusbar brightness control.
-- Added new OOS clock for QS.
-- Added new default wallpaper.
-- Added back gradient brightness sliders.
+- Merged Android 11 r48 October security patch.
+- Added dismiss all button toggle vs text.
+- Added reticker.
+- Added OOS QS clock optional.
+- Added the ability to permanently hide apps from recents.
 - Added colorbucket preference controller.
-- Added seekbar for statusbar padding.
-- Rearrange and added new switch styles.
-- Added new universal Disco mode.
-- Added GamingMode support.
-- Removed Homepage spacer optional.
-- Revamp Settings homepage.
-- Added an option to select bgPrimary or textColorPrimary.
-- Added QS label accent-primary for light|dark.
-- Revamp LegionSettings a bit.
-- Revamp category headers.
-- Added new Battery Saver Profiles.
-- Introduce automated Sleep Mode.
-- Added aggressive battery support.
-- Added Monet accent from Project Radiant.
-- Added wallpaper based gradient color option.
-- Added toggle to hide statusbar on lockscreen.
-- Added toggle to hide lock icon on lockscreen.
-- Added simple fade filter to the media artwork.
-- Added dismiss all button toggle.
-- Added/Implement reticker.
-- Added switch to make QS clock Optional.
-- Added more translations for FR-GR-IT languages.
+- Maded power button press fingerprint unlock toggleable.
+- Aranged to unlocking fingerprint only on power button press.
+- Added more translations for TR-GR-IT languages.
 
 FIXES:
+- We pass CTS and SafetyNet with October patch.
 - Improved some system apps.
-- We made animations a bit humane.
-- We fixed FOD position if cutout is hidden.
-- Fixed per app volume for some volume panel styles.
-- Misc changes... check our Github for more -> @Project-LegionOS
+- Misc changes...check our Github for more -> @Project-LegionOS
 
-Clean flash is mandatory! Enjoy this new official build for picasso :)
+Dirty flash is ok! Enjoy this new official build for picasso :)
