@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-09-21",
-								"datetime":"1632230977",
-								"filename":"LegionOS-v3.13-vayu-20210924-OFFICIAL-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/vayu/LegionOS-v3.13-vayu-20210924-OFFICIAL-GAPPS.zip/download",
-								"id":"f674ec83d25ba0a91bb04363e7970e899bb7749061e908b83590cfec2d4d0ed7",
-								"size":"1717986918",
+								"date":"2021-10-14 ",
+								"datetime":"1634247411",
+								"filename":"LegionOS-v3.14-vayu-20211014-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/vayu/LegionOS-v3.14-vayu-20211014-OFFICIAL-GAPPS.zip/download",
+								"id":"2207afe0b4acaedbbb319110d28ca03c78cf408fdb790e8f86c9e3e4116ca8e5",
+								"size":"1662231475",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
