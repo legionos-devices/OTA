@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-09-21 ",
-								"datetime":"1632237211",
-								"filename":"LegionOS-v3.13-davinci-20210921-OFFICIAL-VANILLA.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/davinci/LegionOS-v3.13-davinci-20210921-OFFICIAL-VANILLA.zip/download",
-								"id":"c78112ee75560e104289f2078f83a7d9b9cc838f7ef8a196bf321fc7a0007574",
-								"size":"1468665415",
+								"date":"2021-10-14 ",
+								"datetime":"1634170228",
+								"filename":"LegionOS-v3.14-davinci-20211014-OFFICIAL-VANILLA.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/davinci/LegionOS-v3.14-davinci-20211014-OFFICIAL-VANILLA.zip/download",
+								"id":"a8813d685ff66f0ded4af67989684f52d208ddad6e568cb49d52b1e31cedda2e",
+								"size":"1467405670",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
