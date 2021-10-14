@@ -1,3 +1,8 @@
+# 14-10-2021
+
+- LegionOS 3.14
+- Drop lineage-overlay
+
 # 23-09-2021
 
 - LegionOS 3.13
