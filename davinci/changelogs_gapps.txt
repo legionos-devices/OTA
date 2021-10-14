@@ -1,3 +1,25 @@
+10-14-2021
+Merged r48 October security patch
+Added dismiss all button toggle vs text
+Added reticker
+Added Oos qs clock optional
+Added the ability to permanently hide apps from recents
+Added  colorbucket preference controller
+Added more translations for TR-GR-IT languages
+Updated vendor security patch level
+Added google photos haxx
+Use GameMode thermal profiles instead of the profiles applied through Parts
+Added vibration control
+Increased ZRAM to 2GB
+Upstreamed kernel from 4.14 stable (4.14.250)
+
+Fixes with this update:
+We pass CTS with October patch
+Improved some system apps
+Misc changes ...check our Github for more ... @Project-LegionOS
+
+Note: EOL - last update for A11
+
 09-21-2021
 Merged September security patch
 Enabled battery percentage on status bar by default
