@@ -1,3 +1,9 @@
+# 15-10-2021
+- October Security Patch
+- Adjusted audio output
+- Reworked Status Bar Paddings
+- Some bug fixes and improvements
+
 # 22-09-2021
 - Build qti power HAL
 - Reduce minimum screen brightness
