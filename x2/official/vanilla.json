@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-09-22 ",
-								"datetime":"1632297202",
-								"filename":"LegionOS-v3.13-x2-20210922-OFFICIAL-VANILLA.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/x2/LegionOS-v3.13-x2-20210922-OFFICIAL-VANILLA.zip/download",
-								"id":"44383fc2b655d2ec570ea559e70c789fd2ad1236bec7bcf1f488c114c20b6c4f",
-								"size":"949599468",
+								"date":"2021-10-16 ",
+								"datetime":"1634374480",
+								"filename":"LegionOS-v3.14-x2-20211016-OFFICIAL-VANILLA.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/x2/LegionOS-v3.14-x2-20211016-OFFICIAL-VANILLA.zip/download",
+								"id":"35d3bd12870fbba7bf43739098ed9c42c11db0d8d9dca33cbab61d456499b6f0",
+								"size":"953943815",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
