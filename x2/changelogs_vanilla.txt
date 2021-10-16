@@ -1,6 +1,12 @@
 LeEco Le Max2 device Vanilla build
 NOTICE: For GAPPS LegionGapps R-11 recomended
 
+# 16-10-2021 - v.3.14
+1)  Octomber patches
+2)  Rearange overlay configs
+3)  Removed more deprecated props
+4)  Misc dt fixes
+
 # 22-09-2021 - v.3.13
 1)  September patches
 2)  Removed unused configs
