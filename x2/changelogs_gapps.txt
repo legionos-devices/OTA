@@ -1,7 +1,7 @@
 LeEco Le Max2 device GAPPS build
 Gapps build including basic R-11 Gapps
 
-# 16-10-2021 - v.3.13
+# 16-10-2021 - v.3.14
 1)  Octomber patches
 2)  Rearange overlay configs
 3)  Removed more deprecated props
