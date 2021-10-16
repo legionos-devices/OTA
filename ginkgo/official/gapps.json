@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-09-21 ",
-								"datetime":"1632235804",
-								"filename":"LegionOS-v3.13-ginkgo-20210921-OFFICIAL-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/ginkgo/LegionOS-v3.13-ginkgo-20210921-OFFICIAL-GAPPS.zip/download",
-								"id":"372ae3e1209b8bc45f483ef613d26d00da9df94c096388ad5a4d816e95ab9f85",
-								"size":"1506801943",
+								"date":"2021-10-16 ",
+								"datetime":"1634392526",
+								"filename":"LegionOS-v3.14-ginkgo-20211016-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/ginkgo/LegionOS-v3.14-ginkgo-20211016-OFFICIAL-GAPPS.zip/download",
+								"id":"6362e28b5a280bd42f21708e6f9ad1cfefe39b99dd61fe86f5a71fa5200eafc3",
+								"size":"1476285381",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
