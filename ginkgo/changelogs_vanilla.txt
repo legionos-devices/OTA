@@ -1,3 +1,8 @@
+# 16-10-2021
+
+- October Security Patch
+- Disable Notification LED on willow
+
 # 21-09-2021
 
 - Updated MIUI blobs from MIUI 12.0.2.0.RCOMIXM
