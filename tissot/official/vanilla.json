@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-09-23 ",
-								"datetime":"1632403235",
-								"filename":"LegionOS-v3.13-tissot-20210923-OFFICIAL-VANILLA.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/tissot/LegionOS-v3.13-tissot-20210923-OFFICIAL-VANILLA.zip/download",
-								"id":"835eaaea9f2296cc7c4c2b1772390662df52b77f92ec53dd6fa1f5d3d32fb569",
-								"size":"868538192",
+								"date":"2021-10-14 ",
+								"datetime":"1634225903",
+								"filename":"LegionOS-v3.14-tissot-20211014-OFFICIAL-VANILLA.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/tissot/LegionOS-v3.14-tissot-20211014-OFFICIAL-VANILLA.zip/download",
+								"id":"00cc49891b68413805ea0d3ed364074b3b95f3a610c2c9105c051cbd5e7d230a",
+								"size":"868684343",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
