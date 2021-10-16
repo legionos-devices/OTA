@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2021-09-02 ",
-								"datetime":"1630596222",
-								"filename":"LegionOS-v3.12-jasmine_sprout-20210902-OFFICIAL-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/jasmine_sprout/LegionOS-v3.12-jasmine_sprout-20210902-OFFICIAL-GAPPS.zip/download",
-								"id":"778a7cfffc063f6144b29a6950f82d39008bf38d85e07b75f71e82cadd6b1773",
-								"size":"1244778277",
+								"date":"2021-10-16 ",
+								"datetime":"1634321677",
+								"filename":"LegionOS-v3.14-jasmine_sprout-20211015-OFFICIAL-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/jasmine_sprout/LegionOS-v3.14-jasmine_sprout-20211015-OFFICIAL-GAPPS.zip/download",
+								"id":"e9e1eb18b627d9cfbd6ab8d12be45aca639abdb5c9ad00b191a03af1f2457180",
+								"size":"1237235212",
 								"romtype":"OFFICIAL",
 								"version":"11.0"
 		}
