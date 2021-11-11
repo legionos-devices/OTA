@@ -1,11 +1,11 @@
 {
         "response": [
                  {
-                                                                "date":"2021-09-22",
-                                                                "datetime":"1632333403",
-                                                                "filename":"LegionOS-v3.13-olives-20210922-OFFICIAL-GAPPS.zip",
-                                                                "url":"https://sourceforge.net/projects/legionrom/files/olives/LegionOS-v3.13-olives-20210922-OFFICIAL-GAPPS.zip/download",
-                                                                "id":"173a60d643bf2d03756b485c4b0a60be873733d51bc9c9eca89ac1b4632ce2fe",
+                                                                "date":"2021-11-10",
+                                                                "datetime":"1636567269",
+                                                                "filename":"LegionOS-v3.14-olives-20211110-OFFICIAL-GAPPS.zip",
+                                                                "url":"https://sourceforge.net/projects/legionrom/files/olives/LegionOS-v3.14-olives-20211110-OFFICIAL-GAPPS.zip/download",
+                                                                "id":"3a9180c3248b64e0a77a43cab528e331ebe760b82e3af654547529dbe21f1979",
                                                                 "size":"1375243578",
                                                                 "romtype":"OFFICIAL",
                                                                 "version":"11.0"
