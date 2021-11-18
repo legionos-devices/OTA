@@ -319,22 +319,6 @@
     },
     {
         "brand": "Xiaomi",
-        "name": "Mi 9T / Redmi K20",
-        "codename": "davinci",    
-        "maintainer_name": "markkey014",
-        "maintainer_xda": "https://forum.xda-developers.com/m/markkey.11666433/",
-        "maintainer_country": "PHL",
-        "xda_thread": "https://forum.xda-developers.com/t/11-rom-official-project-legion-os.4322397/",
-        "photo": "https://avatars.githubusercontent.com/u/16484432?v=4",
-	    "github_link": "https://github.com/markkey014",
-	    "telegram_link": "https://t.me/markkey014",        
-	"active": true,
-        "supported_versions": [ "11" ],
-        "supported_types": [ "gapps", "vanilla" ],
-        "donation_link": "https://paypal.me/itsmarkkey"	
-    },
-    {
-        "brand": "Xiaomi",
         "name": "Redmi S2/Y2",
         "codename": "ysl",
         "maintainer_name": "AYUSH",
