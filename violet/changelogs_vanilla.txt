@@ -1,6 +1,0 @@
-22-06-2021:
-
-1) Added More presets in Dirac.
-2) Kernel Upstream (Its nigandu now thanks to Subham Das)
-3) Updated Blobs.
-4) Various under the hood changes

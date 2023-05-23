@@ -1,7 +1,0 @@
-Miatoll Changelog LegionOS 3.13 Gapps
-
-* Kernel upstreed to latest
-* Updated blobs
-* Added GcamGo
-* Addressed sepolocies
-* Treeside improvements

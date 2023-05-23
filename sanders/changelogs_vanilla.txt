@@ -1,5 +1,0 @@
-# 19-06-2021
-
-Device side:
-
-Removed fast charge for USB to save your phone.

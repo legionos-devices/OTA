@@ -1,17 +1,4 @@
-LegionOS 3.10
+LegionOS 5.0
 
-*  Update to June security patch
-*  Added Edge lighting (Ambient customization)
-*  Our notifications now show colourd/app icons
-*  Added New Default Wallpaper
-*  New Legion Settings UI Header
-*  Spoofed More apps to use Pixel FP
-*  Moved to usb hal 1.1 source wide
-*  Added Gesture Navigation related customization (Extended/Long swipe ...Dead zone...Gesture bar radius/size...Sensitivity ...etc etc)
-*  Ship Gcam GO by default for all device (Except that if developer ovverides)
-*  Dynamic Changelog (See changelog before updating device)
-*  Fix Legion Settings crashes
-*  Use a new Package installer (From dotOS) [New ui]
-*  Added Bluetooth SBC HD codec as default for all devices
-*  Fixed some Bluetooth A2dp and QTI bt stuffs
-*  Updated AOSP Bluetooth and oss bluetooth
+*  Update to May security patch
+*  Initial Release

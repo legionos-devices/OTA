@@ -1,9 +1,0 @@
-Vayu Changelog - LegionOS 3.14 Vanilla
-- Slightly restore init.qcom.post_boot.sh to CAF
-
-Vayu Changelog - LegionOS 3.13 Vanilla
-- Enable AOSP SIM toggle
-- Minor refresh rate improvement
-- Fix SafetyNet issues
-- Fix GoogleCamera video recording issue
-- Allow all 4 rotations

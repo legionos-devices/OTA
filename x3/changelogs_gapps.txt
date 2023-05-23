@@ -1,8 +1,0 @@
-Highlights & Device Specific Changes:
-
-===== 17.10.2021 =====
-- October Security Patch
-- Updated Redfin FP to October
-
-===== 21.09.2021 =====
-- initial gapps build)

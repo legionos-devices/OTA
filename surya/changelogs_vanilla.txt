@@ -1,4 +1,0 @@
-• Intial OSS Based Build 
-• Shipped with Optimus Drunk Kernel
-• Enabled Minimum and Maximum Refresh Rate Settings
-• Clean Flash is Mandatory
