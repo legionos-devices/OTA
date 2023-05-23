@@ -7,6 +7,9 @@ if [ $# -lt 2 ]; then
     exit 1
 fi
 
+mkdir -p $DEVICE/official/web
+touch $DEVICE/official/$FLAVOUR.json
+
 if [ $FLAVOUR == "vanilla" ]; then
 DATETIME=$(grep "ro.build.date.utc=" ../out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
 FILENAME=$(find ../out/target/product/$DEVICE/Legion-v*VANILLA.zip | cut -d "/" -f 6)
