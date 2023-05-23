@@ -10,7 +10,7 @@
         "photo": "https://avatars.githubusercontent.com/u/54382817?v=4",
     	"github_link": "https://github.com/ZenkaBestia",
 	    "telegram_link": "https://t.me/ZenkaBestia",
-    	"active": true,
+    	"active": false,
     	"supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
     	"donation_link": "https://www.paypal.me/ZenkaBestia"
@@ -26,7 +26,7 @@
         "photo": "https://avatars.githubusercontent.com/u/83268060?v=4",
 	    "github_link": "https://github.com/Nasir-buddy",
 	    "telegram_link": "https://t.me/NasirAli17",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": ""	
@@ -42,7 +42,7 @@
         "photo": "https://avatars.githubusercontent.com/u/26388747?s=400&u=f48e27564a6ee82924472675a33fffd256d740a2&v=4",
     	"github_link": "https://github.com/rajkale99",
 	    "telegram_link": "https://t.me/rajkale99",
-    	"active": true,
+    	"active": false,
     	"supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
     	"donation_link": "https://paypal.me/rajkale99"
@@ -58,7 +58,7 @@
         "photo": "https://avatars.githubusercontent.com/u/50242333?v=4",
     	"github_link": "https://github.com/skittels15",
 	    "telegram_link": "https://t.me/beerdmann",
-    	"active": true,
+    	"active": false,
     	"supported_versions": [ "11" ],
         "supported_types": [ "vanilla", "gapps" ],
     	"donation_link": "https://ko-fi.com/beerdmann"
@@ -74,7 +74,7 @@
         "photo": "https://avatars.githubusercontent.com/u/64311706?v=4",
     	"github_link": "https://github.com/masemoel",
 	    "telegram_link": "https://t.me/masemoel",
-    	"active": true,
+    	"active": false,
     	"supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
     	"donation_link": "https://paypal.me/masemoel"
@@ -90,7 +90,7 @@
         "photo": "https://avatars.githubusercontent.com/u/66974833?v=4",
 	    "github_link": "https://github.com/anonhacker47",
 	    "telegram_link": "https://t.me/anonhacker47",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": ""	
@@ -106,7 +106,7 @@
         "photo": "https://avatars.githubusercontent.com/u/26855364?v=4",
 	    "github_link": "https://github.com/Immanuel44",
 	    "telegram_link": "https://t.me/Immanuel_Raj",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/immanuelr44?locale.x=en_GB"	
@@ -122,7 +122,7 @@
         "photo": "https://avatars.githubusercontent.com/u/74150843?v=4",
 	    "github_link": "https://github.com/CBG-leeco",
 	    "telegram_link": "https://t.me/CrisBalGreece",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": ""	
@@ -138,7 +138,7 @@
         "photo": "https://avatars.githubusercontent.com/u/47693195?v=4",
 	    "github_link": "https://github.com/lucasponez",
 	    "telegram_link": "https://t.me/uauorquideas",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "vanilla","gapps" ],
         "donation_link": "https://tinyurl.com/donatetopintos"	
@@ -170,10 +170,26 @@
         "photo": "https://avatars.githubusercontent.com/u/55486333",
 	    "github_link": "https://github.com/thatisjigen",
 	    "telegram_link": "https://t.me/jigen_was_here",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/thatisjigen"	
+    },
+    {
+        "brand": "Realme",
+        "name": "Realme GT Neo 3T",
+        "codename": "rmz3371",    
+        "maintainer_name": "Dr.RajKale",
+        "maintainer_xda": "null",
+    	"maintainer_country": "IND",
+    	"xda_thread": "",
+        "photo": "https://avatars.githubusercontent.com/u/26388747?s=400&u=f48e27564a6ee82924472675a33fffd256d740a2&v=4",
+    	"github_link": "https://github.com/rajkale99",
+	    "telegram_link": "https://t.me/rajkale99",
+    	"active": true,
+    	"supported_versions": [ "s" ],
+        "supported_types": [ "gapps" ],
+    	"donation_link": "https://paypal.me/rajkale99"
     },
     {  
         "brand": "Realme",
@@ -185,7 +201,7 @@
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-rmx2081-legionos-3-13-unified-unofficial-aosp.4335731/",
 	    "github_link": "https://github.com/Patriot-06",
 	    "telegram_link": "https://t.me/patriot_235",        
-	"active": true,
+	"active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps" ],
         "donation_link": "https://www.paypal.me/patriot235"
@@ -201,7 +217,7 @@
         "photo": "https://avatars.githubusercontent.com/u/76956886?v=4",
 	    "github_link": "https://github.com/soumyajit007-creator",
 	    "telegram_link": "https://t.me/Soumyajitpaul007",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://www.paypal.com/paypalme/penetrator007"	
@@ -217,7 +233,7 @@
         "photo": "https://avatars.githubusercontent.com/u/49910923?v=4",
 	    "github_link": "https://github.com/TheMarc43",
 	    "telegram_link": "https://t.me/TheMarc43",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/TheMarc43"	
@@ -248,7 +264,7 @@
         "photo": "https://avatars.githubusercontent.com/u/67329471?s=60&v=4",
     	"github_link": "https://github.com/no1opensourcelover",
 	    "telegram_link": "https://t.me/fosslover",
-    	"active": true,
+    	"active": false,
     	"supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
     	"donation_link": ""
@@ -264,7 +280,7 @@
         "photo": "https://avatars.githubusercontent.com/u/17386344?v=4",
 	    "github_link": "https://github.com/chdelacr",
 	    "telegram_link": "https://t.me/chdelacr",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/ChrisdelaC"
@@ -280,7 +296,7 @@
         "photo": "https://avatars.githubusercontent.com/u/61414264?v=4",
 	    "github_link": "https://github.com/anupam41",
 	    "telegram_link": "https://t.me/anupam41",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
     	"donation_link": ""
@@ -296,7 +312,7 @@
         "photo": "https://avatars.githubusercontent.com/u/26594746?v=4",
 	    "github_link": "https://github.com/answer35",
 	    "telegram_link": "https://t.me/answer35",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
     	"donation_link": ""
@@ -312,7 +328,7 @@
         "photo": "https://avatars.githubusercontent.com/u/63705885?v=4",
 	    "github_link": "https://github.com/TyraLizQ10",
 	    "telegram_link": "https://t.me/nathankits10",        
-	"active": true,
+	"active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://www.paypal.com/paypalme/nathankits"	
@@ -328,7 +344,7 @@
         "photo": "https://avatars.githubusercontent.com/u/16484432?v=4",
 	    "github_link": "https://github.com/markkey014",
 	    "telegram_link": "https://t.me/markkey014",        
-	"active": true,
+	"active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/itsmarkkey"	
@@ -344,7 +360,7 @@
         "photo": "https://avatars.githubusercontent.com/u/47271737?v=4",
 	    "github_link": "https://github.com/MIUI56",
 	    "telegram_link": "https://t.me/AJ0195",
-        "active": true,
+        "active": false,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps" ],
     	"donation_link": ""
