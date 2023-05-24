@@ -122,7 +122,7 @@
         "photo": "https://avatars.githubusercontent.com/u/74150843?v=4",
 	    "github_link": "https://github.com/CBG-leeco",
 	    "telegram_link": "https://t.me/CrisBalGreece",
-        "active": false,
+        "active": true,
         "supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": ""	
@@ -178,7 +178,7 @@
     {
         "brand": "Realme",
         "name": "Realme GT Neo 3T",
-        "codename": "rmz3371",    
+        "codename": "rmx3371",    
         "maintainer_name": "Dr.RajKale",
         "maintainer_xda": "null",
     	"maintainer_country": "IND",
