@@ -42,7 +42,7 @@
         "photo": "https://avatars.githubusercontent.com/u/26388747?s=400&u=f48e27564a6ee82924472675a33fffd256d740a2&v=4",
     	"github_link": "https://github.com/rajkale99",
 	    "telegram_link": "https://t.me/rajkale99",
-    	"active": false,
+    	"active": true,
     	"supported_versions": [ "11" ],
         "supported_types": [ "gapps", "vanilla" ],
     	"donation_link": "https://paypal.me/rajkale99"
