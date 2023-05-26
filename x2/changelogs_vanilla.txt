@@ -1,7 +1,10 @@
 LeEco Le Max2 device A13-T Vanilla build
 NOTICE: For GAPPS use NikGapps core A13-T
 
-* Initial LegionOS Vanilla build based on Android 13 release
+* 2023.05.26
+- Some perf and thermal adjustments
+
+* 2023.05.25 Initial LegionOS Vanilla build based on Android 13 release
 
 ## CLEAN FLASH RECOMENDED
 

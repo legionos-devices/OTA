@@ -1,6 +1,9 @@
 LeEco Le Max2 device A13-T GAPPS build
 
-* Initial LegionOS based on Android 13 release
+* 2023.05.26
+- Some perf and thermal adjustments
+
+* 2023.05.25 Initial LegionOS based on Android 13 release
 
 ## CLEAN FLASH RECOMENDED
 
