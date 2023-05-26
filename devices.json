@@ -123,7 +123,7 @@
 	    "github_link": "https://github.com/CrisBalGreece",
 	    "telegram_link": "https://t.me/CrisBalGreece",
         "active": true,
-        "supported_versions": [ "s" ],
+        "supported_versions": [ "13.0" ],
         "supported_types": [ "gapps", "vanilla" ],
         "donation_link": "https://paypal.me/crisbalgreece"	
     },
