@@ -1,3 +1,4 @@
 Realme GT Neo 3T Gapps changelog
 
 * Initial LegionOS based on Android 13 release
+* LegionKernel inbuilt
