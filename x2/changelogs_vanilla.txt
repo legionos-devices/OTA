@@ -1,6 +1,21 @@
 LeEco Le Max2 device A13-T Vanilla build
 NOTICE: For GAPPS use NikGapps core A13-T
 
+
+* 2023.07.04
+ - June security patches - QPR3 tag
+ Uprev device manifests
+ Updated CarrierConfigOverlay config
+ Removed mounting DebugFS
+ Added and enabled zram writeback for kernel
+ Added and enabled zram job shceduler for device/system
+ Pinned surfaceflinger
+ Our Fingerprint IS BACK without idle issues
+ Removed Set combined QS to false flag
+ Reorginized system/vendor overlays
+ Replace BOARD_CHARGER_DISABLE_INIT_BLANK
+ More system fixes here and there...
+
 * 2023.05.26
 - Some perf and thermal adjustments
 

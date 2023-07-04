@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2023-05-26 ",
-								"datetime":"1685091593",
-								"filename":"Legion-v5.0-x2-OFFICIAL-20230526-VANILLA.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/x2/Legion-v5.0-x2-OFFICIAL-20230526-VANILLA.zip/download",
-								"id":"4a90d67def0f88b2fe1171470f96c6a5e1791e96851eea07635567875fdb5233",
-								"size":"883544206",
+								"date":"2023-07-04 ",
+								"datetime":"1688498382",
+								"filename":"Legion-v5.01-x2-OFFICIAL-20230704-VANILLA.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/x2/Legion-v5.01-x2-OFFICIAL-20230704-VANILLA.zip/download",
+								"id":"b60fa18b4f03b5f43e9fd558b20faa81ddc20921bd0fe7d642bc1e21555437fd",
+								"size":"890224132",
 								"romtype":"OFFICIAL",
 								"version":"13.0"
 		}
