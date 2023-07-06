@@ -1,6 +1,10 @@
 LeEco Le Max2 device A13-T GAPPS build
 
 * 2023.07.04
+ SystemUI. Fix for data switch tile crash
+ Add HD icon on status bar
+
+* 2023.07.04
  - June security patches - QPR3 tag
  Uprev device manifests
  Removed mounting DebugFS
