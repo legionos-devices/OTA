@@ -1,6 +1,6 @@
 LeEco Le Max2 device A13-T GAPPS build
 
-* 2023.07.04
+* 2023.07.06
  SystemUI. Fix for data switch tile crash
  Add HD icon on status bar
 
