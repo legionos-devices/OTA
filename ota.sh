@@ -11,17 +11,17 @@ mkdir -p $DEVICE/official/web
 touch $DEVICE/official/$FLAVOUR.json
 
 if [ $FLAVOUR == "vanilla" ]; then
-DATETIME=$(grep "ro.build.date.utc=" ../out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
-FILENAME=$(find ../out/target/product/$DEVICE/Legion-v*VANILLA.zip | cut -d "/" -f 6)
-ID=$(sha256sum ../out/target/product/$DEVICE/Legion-v*VANILLA.zip | cut -d " " -f 1)
+DATETIME=$(grep "ro.build.date.utc=" out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
+FILENAME=$(find out/target/product/$DEVICE/Legion-v*VANILLA.zip | cut -d "/" -f 6)
+ID=$(sha256sum out/target/product/$DEVICE/Legion-v*VANILLA.zip | cut -d " " -f 1)
 FILEHASH=$ID
-SIZE=$(wc -c ../out/target/product/$DEVICE/Legion-v*VANILLA.zip | awk '{print $1}')
+SIZE=$(wc -c out/target/product/$DEVICE/Legion-v*VANILLA.zip | awk '{print $1}')
 else
-DATETIME=$(grep "ro.build.date.utc=" ../out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
-FILENAME=$(find ../out/target/product/$DEVICE/Legion-v*GAPPS.zip | cut -d "/" -f 6)
-ID=$(sha256sum ../out/target/product/$DEVICE/Legion-v*GAPPS.zip | cut -d " " -f 1)
+DATETIME=$(grep "ro.build.date.utc=" out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
+FILENAME=$(find out/target/product/$DEVICE/Legion-v*GAPPS.zip | cut -d "/" -f 6)
+ID=$(sha256sum out/target/product/$DEVICE/Legion-v*GAPPS.zip | cut -d " " -f 1)
 FILEHASH=$ID
-SIZE=$(wc -c ../out/target/product/$DEVICE/Legion-v*GAPPS.zip | awk '{print $1}')
+SIZE=$(wc -c out/target/product/$DEVICE/Legion-v*GAPPS.zip | awk '{print $1}')
 fi
 
 URL="https://sourceforge.net/projects/legionrom/files/$DEVICE/$FILENAME/download"
@@ -31,4 +31,4 @@ JSON_FMT='{\n \t"response": [\n\t\t {\n\t\t\t\t\t\t\t\t"date":"%s ",\n\t\t\t\t\t
 printf "$JSON_FMT" "$DATE" "$DATETIME" "$FILENAME" "$URL" "$ID" "$SIZE"  "$ROMTYPE" "$VERSION" > $DEVICE/official/$FLAVOUR.json
 echo $FLAVOUR.json file created
 
-git add . && git commit -m "$DEVICE: Latest $FLAVOUR update" && git push LegionOS-Devices HEAD:s
+cd OTA && git add . && git commit -m "$DEVICE: Latest $FLAVOUR update" && git push LegionOS-Devices HEAD:s
