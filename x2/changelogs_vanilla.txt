@@ -1,6 +1,11 @@
 LeEco Le Max2 device A13-T Vanilla build
 NOTICE: For GAPPS use NikGapps core A13-T
 
+* 2023.07.11
+- July security patches
+Spoof July FP
+Fixes here and there
+
 * 2023.07.06
  SystemUI. Fix for data switch tile crash
  Add HD icon on status bar

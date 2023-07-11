@@ -1,12 +1,12 @@
 {
  	"response": [
 		 {
-								"date":"2023-07-06 ",
-								"datetime":"1688671229",
-								"filename":"Legion-v5.01-x2-OFFICIAL-20230706-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/x2/Legion-v5.01-x2-OFFICIAL-20230706-GAPPS.zip/download",
-								"id":"eb7af4c8ff1e02bac658d5e0df316c5e85e3c2a7bffc3964504f7bcb59bb4ea2",
-								"size":"1196400091",
+								"date":"2023-07-11 ",
+								"datetime":"1689060344",
+								"filename":"Legion-v5.01-x2-OFFICIAL-20230711-GAPPS.zip",
+								"url":"https://sourceforge.net/projects/legionrom/files/x2/Legion-v5.01-x2-OFFICIAL-20230711-GAPPS.zip/download",
+								"id":"7705990a64ac53691957ee5a6ad70c6e01ca5338d1cc1717b9af45fec6c139cd",
+								"size":"1195945852",
 								"romtype":"OFFICIAL",
 								"version":"13.0"
 		}

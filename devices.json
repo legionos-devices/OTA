@@ -125,7 +125,7 @@
         "active": true,
         "supported_versions": [ "13.0" ],
         "supported_types": [ "gapps", "vanilla" ],
-        "donation_link": "https://paypal.me/crisbalgreece"	
+        "donation_link": ""	
     },
     {
         "brand": "Motorola",
