@@ -1,9 +1,9 @@
-LegionOS 5.0
+LegionOS 5.0.1
 
-* VERSION 5.01
+* VERSION 5.0.1 qpr3 release
 - Merge July security patches
 - Merge tag 'android-13.0.0_r63'
-- Fix Lockscreen Charging
+- Removed Lockscreen Charging
 - Enable sidefps performant auth by default
 - Bugfix: hide "all apps" view when search starts
 - Fix crash with transient taskbar
