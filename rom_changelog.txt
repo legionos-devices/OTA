@@ -1,4 +1,22 @@
 LegionOS 5.0
 
-*  Update to May security patch
-*  Initial Release
+* VERSION 5.01
+- Merge July security patches
+- Merge tag 'android-13.0.0_r63'
+- Fix Lockscreen Charging
+- Enable sidefps performant auth by default
+- Bugfix: hide "all apps" view when search starts
+- Fix crash with transient taskbar
+- Block 2021/22 pixel features to ASI and pixel launcher
+- Refactor PixelPropUtils
+- Add Gameprops for Battlegrounds Mobile India (BGMI)
+- ApplicationPackageManager: Remove p21+ features from featuresPixel
+- Prevent apps from crashing if internet permission is revoked.
+- Extend freeform window feature to all apps
+- Switch back to the application on /system when UID and path  changed
+- Block Tensor features for Recorder
+- Remove QS Header images for now due to incompatibility with qpr3 
+- Block Tensor features for Recorder
+- Exclude PE 2021 Midyear from tensor pixel list
+- Spoof to Pixel 5a by default
+- More changes that i'm forgeting
