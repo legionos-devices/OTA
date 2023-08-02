@@ -1,4 +1,17 @@
 Realme GT Neo 3T Gapps changelog
 
+Changelog july Update 
+
+* Import LDAC blobs from c08 
+* Import thermal-engine from caf
+* Generate thermal-engine.conf from c08 stock 
+* Cleanup and Update all blobs from c08
+* Import missing blobs
+* Update LegionOS kernel to latest clo tag LA.UM.9.12.r1-15500-SMxx50.QSSI13.0
+* Merge android-4.19-stable ASB 05/07 into LegionKernel
+* More of here and there improvement in device tree and kernel
+
+
+-------------------------------------------------
 * Initial LegionOS based on Android 13 release
 * LegionKernel inbuilt

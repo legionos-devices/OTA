@@ -7,6 +7,7 @@ if [ $# -lt 2 ]; then
     exit 1
 fi
 
+cd OTA
 mkdir -p $DEVICE/official/web
 touch $DEVICE/official/$FLAVOUR.json
 

@@ -1,14 +1,14 @@
 {
  	"response": [
 		 {
-								"date":"2023-05-24 ",
-								"datetime":"1684900775",
-								"filename":"Legion-v5.0-rmx3371-OFFICIAL-20230524-GAPPS.zip",
-								"url":"https://sourceforge.net/projects/legionrom/files/rmx3371/Legion-v5.0-rmx3371-OFFICIAL-20230524-GAPPS.zip/download",
-								"id":"ffdf2cc076768cfb7867d42bef4a13ded4feacf2e142ba186fe4870a4400b1ac",
-								"size":"1544501445",
+								"date":"2023-08-02 ",
+								"datetime":"1690192184",
+								"filename":"",
+								"url":"https://sourceforge.net/projects/legionrom/files/rmx3371//download",
+								"id":"49d10c327d38c8ad40497c711c4eca09bcad1f6045332b74334e2f475d8f5264",
+								"size":"1529846057",
 								"romtype":"OFFICIAL",
-								"version":"s"
+								"version":"13.0"
 		}
 	]
 }
