@@ -1,5 +1,11 @@
 LeEco Le Max2 device A13-T GAPPS build
 
+* 2023.10.26
+- October 2023 security patches
+Spoof October FP
+overlay fixes
+More fixes here and there
+
 * 2023.07.11
 - July security patches
 Spoof July FP

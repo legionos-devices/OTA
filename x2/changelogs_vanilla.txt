@@ -1,6 +1,12 @@
 LeEco Le Max2 device A13-T Vanilla build
 NOTICE: For GAPPS use NikGapps core A13-T
 
+* 2023.10.23
+- October 2023 security patches
+Spoof October FP
+overlay fixes
+More fixes here and there
+
 * 2023.07.11
 - July security patches
 Spoof July FP
