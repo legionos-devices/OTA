@@ -1,5 +1,11 @@
 LeEco Le Max2 device A13-T GAPPS build
 
+* 2023.11.12
+- November 2023 security bump patches
+Spoof app signature by default
+hwui: reset to android-13.0.0_r13
+More fixes here and there
+
 * 2023.10.26
 - October 2023 security patches
 Spoof October FP
