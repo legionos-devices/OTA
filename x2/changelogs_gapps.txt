@@ -1,5 +1,15 @@
 LeEco Le Max2 device A13-T GAPPS build
 
+* 2024.01.12
+- January 2024 security bump patches
+- Import platform patches - 'android-security-13.0.0_r75'
+- Fix screen blur
+- Fix night light flickering
+- Drop unneeded configurations
+- Fix manifest build errors
+* More system fixes here and there..
+
+
 * 2023.12.10
 - December 2023 security bump patches
 Spoof app signature for all apps
