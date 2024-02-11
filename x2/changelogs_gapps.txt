@@ -1,5 +1,11 @@
 LeEco Le Max2 device A13-T GAPPS build
 
+* 2024.02.11
+- February 2024 security bump patches
+- Merge tag 'android-security-13.0.0_r14' 
+- Fix some new manifest build errors
+* More system fixes here and there..
+
 * 2024.01.12
 - January 2024 security bump patches
 - Import platform patches - 'android-security-13.0.0_r75'
