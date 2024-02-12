@@ -1,10 +1,12 @@
 LeEco Le Max2 device A13-T Vanilla build
 NOTICE: For GAPPS use NikGapps core A13-T
 
-* 2024.02.11
+* 2024.02.12
 - February 2024 security bump patches
-- Merge tag 'android-security-13.0.0_r14' 
-- Fix some new manifest build errors
+- Merge tag 'android-security-13.0.0_r14'
+- Fix WiFi dynamic interfaces
+- Fix WiFi legacy hidls
+- Fix WiFi legacy channels 
 * More system fixes here and there..
 
 * 2024.01.12
