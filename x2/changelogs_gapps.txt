@@ -1,5 +1,20 @@
 LeEco Le Max2 device A13-T GAPPS build
 
+* 2024.02.16
+- February 2024 security bump patches
+- SystemUI: Make QS panel change on UI mode changes
+- SystemUI: Follow light/dark theme in quick settings
+- SystemUI: Add dual-tone light and dark themes for QS
+- Privacy Indicators: Follow light/dark theme settings
+- SystemUI: Re-inflate QS and SB when CONFIG_SCREEN_LAYOUT
+- SystemUI: BatteryMeterView: Set white tint in darkmode
+- SystemUI: Use color accent for charging animation
+- SystemUI: Use lighter material you shades for charging animation
+- SystemUI: Increase padding between clock and notification area
+- DisplayPowerController: Make colorfade configurable via sysprop
+- New Legion WallPaper 
+* More system fixes here and there..
+
 * 2024.02.12
 - February 2024 security bump patches
 - Merge tag 'android-security-13.0.0_r14'
