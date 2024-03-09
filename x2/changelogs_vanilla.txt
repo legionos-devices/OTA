@@ -1,6 +1,24 @@
 LeEco Le Max2 device A13-T Vanilla build
 NOTICE: For GAPPS use NikGapps core A13-T
 
+* 2024.03.08
+- March 2024 security patches
+- SystemUI: Fix bluetooth tile show blank
+- SystemUI: Limit keyguard charging stats updates
+- SystemUI: StatusBarIconView: Use colored app icons instead of provided notifications
+- SystemUI: Follow light/dark theme in SplitShade Header
+- SystemUI: Follow light/dark theme in new QS footer actions
+- SystemUI: Remove visibility check in setting QSCarrier color
+- Settings: Switch to gestures while enabling navkeys
+- Settings: Added our x2 device icon inside about phone info settings
+- PrebuiltApps: Revert back to AOSP prebuilt apps for Vanilla
+- fwb_values: Additional translations for Greek,Russian,Spanish and German languages
+- SystemUI: Additional translations for Greek,Russian,Spanish and German languages
+- Settings: Additional translations for Greek,Russian,Spanish and German languages
+- LegionLauncher: Additional translations for Greek,Russian,Spanish and German languages
+- New Legion WallPaper 
+* More system fixes here and there..
+
 * 2024.02.16
 - February 2024 security bump patches
 - SystemUI: Make QS panel change on UI mode changes
