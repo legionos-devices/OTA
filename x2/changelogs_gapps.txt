@@ -1,4 +1,20 @@
-LeEco Le Max2 device A13-T GAPPS build
+LeEco Le Max2 / Max_Plus devices A13-T GAPPS build
+
+* 2024.03.17
+- March 2024 security patches
+- LeEco MAX_PLUS (X910) is unified from now on!
+- Add prebuilt DolbyAtmos from Moto G52
+- Including system core framework library of Motorola ROM ported from Motorola XT2125 (nio)
+- Including an equalizer global type soundfx ported from Motorola G52 (rhode) for any Android 11plus
+- WiFi speedup adjustments
+- Reduce status_bar_padding_start to 6dp
+- Settings:Put backlight DEFAULT_BUTTON_TIMEOUT to 3
+- SystemUI:Fixup Add tile to show volume panel (for devices with damaged HW keys)
+- BatteryStatsImpl: Fix divide by zero error
+- Battery fixes: Reduce discharge rate
+- PixelPropsUtils: Update fingerprint for play integrity
+- Drop prebuilt v32-libhardware_legacy.so
+* More system fixes here and there..
 
 * 2024.03.08
 - March 2024 security patches
