@@ -1,5 +1,17 @@
 LeEco Le Max2 / Max_Plus devices A13-T GAPPS build
 
+
+* 2024.04.09
+- April 2024 security patches
+- LeEco MAX_PLUS (X910) more adjustmenets
+- MaxPlus Unifications - implements - Thermals
+- Bring back mock hidl power stats
+- Label perf 2.0
+- Add power.stats to satisfy FCM
+- Kernel changes for MaxPlus Sharp panel
+- Added GcamGo as main camera
+* More system fixes here and there..
+
 * 2024.03.17
 - March 2024 security patches
 - LeEco MAX_PLUS (X910) is unified from now on!
