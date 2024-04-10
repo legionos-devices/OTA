@@ -1,6 +1,12 @@
 LeEco Le Max2 / Max_Plus devices - A13-T Vanilla build
 NOTICE: For GAPPS use NikGapps core A13-T
 
+* 2024.04.10
+- Fix missing LeEcoSettings translations
+  for Greek, Spanish, Russian and German languages
+- Add missing EUI 19S, MAX_PLUS CPU and Thermals
+- Added config to Vanilla build for Unlimited G-photos
+
 * 2024.04.08
 - April 2024 security patches
 - LeEco MAX_PLUS (X910) more adjustmenets
