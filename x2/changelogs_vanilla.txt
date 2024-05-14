@@ -1,6 +1,11 @@
 LeEco Le Max2 / Max_Plus devices - A13-T Vanilla build
 NOTICE: For GAPPS use NikGapps core A13-T
 
+* 2024.05.14
+- Add more missing LeEcoSettings translations
+  for Greek, Spanish, Russian and German languages
+* More system fixes here and there..
+
 * 2024.04.10
 - Fix missing LeEcoSettings translations
   for Greek, Spanish, Russian and German languages
