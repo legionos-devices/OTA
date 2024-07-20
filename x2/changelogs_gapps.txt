@@ -1,5 +1,12 @@
 LeEco Le Max2 / Max_Plus devices A13-T GAPPS build
 
+* 2024.07.20
+- Return back Aperture camera
+- Update some thermal configs
+- Small Kernel changes
+- Small thermal fixes
+- Small system fixes...
+
 * 2024.06.21
 - Return back to our FP
 - Update changelog and configs
