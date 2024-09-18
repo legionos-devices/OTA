@@ -1,5 +1,23 @@
 LeEco Le Max2 / Max_Plus devices A13-T GAPPS build
 
+* 2024.09.18
+LegionOS - Platform
+
+- Merge September 2024 security patches
+- Bump Security String to 2024-09-05
+- CUSTOM_SECURITY_PATCH for September2024 Security update 
+- PixelPropsUtils: Update fingerprint to haskey beta
+- Merge tag 'android-security-13.0.0_r21' of frameworks/av into HEAD
+- Merge tag 'android-security-13.0.0_r21' into HEAD for Bluetooth
+- Merge tag 'android-security-13.0.0_r21' into HEAD for hardware/interaces
+
+# Device LeMax2 | MaxPlus | Changelog | Fixes
+
+- Update changelog and configs
+- Small Kernel changes
+- Small thermal fixes
+- Small system fixes...
+----------------------------------------------------------------------
 * 2024.08.24
 LegionOS - Platform
 
@@ -12,7 +30,6 @@ LegionOS - Platform
 - Merge tag 'android-security-13.0.0_r20' into HEAD for Bluetooth
 - Merge tag 'android-security-13.0.0_r20' into HEAD for hardware/interaces
 
-----------------------------------------------------------------------
 
 # Device LeMax2 | MaxPlus | Changelog | Fixes
 
