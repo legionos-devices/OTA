@@ -5,7 +5,6 @@ LegionOS - Platform
 
 - Merge ASeptember 2025 security patches
 - Bump Security String to 2025-09-05
-- CUSTOM_SECURITY_PATCH for April 2025 Security update
 - Fixed WPA3 support
 - Update PixelPropUtils
 - Merge tag 'android-security-13.0.0_r31' of frameworks/av into HEAD
